@@ -1,0 +1,2016 @@
+python sim_424.py 462.libquantum.gz 16384 16 128 1000 
+
+Processing your program trace, progress so far = 0 %
+set and tag of 0x2b6bf64e1480 is 1 46623724421
+address 0x2b6bf64e1480 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e14c0 is 1 46623724421
+address 0x2b6bf64e14c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1500 is 2 46623724421
+address 0x2b6bf64e1500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e1540 is 2 46623724421
+address 0x2b6bf64e1540 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1580 is 3 46623724421
+address 0x2b6bf64e1580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e15c0 is 3 46623724421
+address 0x2b6bf64e15c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1600 is 4 46623724421
+address 0x2b6bf64e1600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e1640 is 4 46623724421
+address 0x2b6bf64e1640 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1680 is 5 46623724421
+address 0x2b6bf64e1680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e16c0 is 5 46623724421
+address 0x2b6bf64e16c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1700 is 6 46623724421
+address 0x2b6bf64e1700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e1740 is 6 46623724421
+address 0x2b6bf64e1740 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1780 is 7 46623724421
+address 0x2b6bf64e1780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e17c0 is 7 46623724421
+address 0x2b6bf64e17c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1800 is 0 46623724422
+address 0x2b6bf64e1800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e1840 is 0 46623724422
+address 0x2b6bf64e1840 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1880 is 1 46623724422
+address 0x2b6bf64e1880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e18c0 is 1 46623724422
+address 0x2b6bf64e18c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1900 is 2 46623724422
+address 0x2b6bf64e1900 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e1940 is 2 46623724422
+address 0x2b6bf64e1940 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1980 is 3 46623724422
+address 0x2b6bf64e1980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e19c0 is 3 46623724422
+address 0x2b6bf64e19c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1a00 is 4 46623724422
+address 0x2b6bf64e1a00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e1a40 is 4 46623724422
+address 0x2b6bf64e1a40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1a80 is 5 46623724422
+address 0x2b6bf64e1a80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e1ac0 is 5 46623724422
+address 0x2b6bf64e1ac0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1b00 is 6 46623724422
+address 0x2b6bf64e1b00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e1b40 is 6 46623724422
+address 0x2b6bf64e1b40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1b80 is 7 46623724422
+address 0x2b6bf64e1b80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e1bc0 is 7 46623724422
+address 0x2b6bf64e1bc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1c00 is 0 46623724423
+address 0x2b6bf64e1c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e1c40 is 0 46623724423
+address 0x2b6bf64e1c40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1c80 is 1 46623724423
+address 0x2b6bf64e1c80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e1cc0 is 1 46623724423
+address 0x2b6bf64e1cc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1d00 is 2 46623724423
+address 0x2b6bf64e1d00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e1d40 is 2 46623724423
+address 0x2b6bf64e1d40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1d80 is 3 46623724423
+address 0x2b6bf64e1d80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e1dc0 is 3 46623724423
+address 0x2b6bf64e1dc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1e00 is 4 46623724423
+address 0x2b6bf64e1e00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e1e40 is 4 46623724423
+address 0x2b6bf64e1e40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1e80 is 5 46623724423
+address 0x2b6bf64e1e80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e1ec0 is 5 46623724423
+address 0x2b6bf64e1ec0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1f00 is 6 46623724423
+address 0x2b6bf64e1f00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e1f40 is 6 46623724423
+address 0x2b6bf64e1f40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e1f80 is 7 46623724423
+address 0x2b6bf64e1f80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e1fc0 is 7 46623724423
+address 0x2b6bf64e1fc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2000 is 0 46623724424
+address 0x2b6bf64e2000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e2040 is 0 46623724424
+address 0x2b6bf64e2040 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2080 is 1 46623724424
+address 0x2b6bf64e2080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e20c0 is 1 46623724424
+address 0x2b6bf64e20c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2100 is 2 46623724424
+address 0x2b6bf64e2100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2140 is 2 46623724424
+address 0x2b6bf64e2140 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2180 is 3 46623724424
+address 0x2b6bf64e2180 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e21c0 is 3 46623724424
+address 0x2b6bf64e21c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2200 is 4 46623724424
+address 0x2b6bf64e2200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2240 is 4 46623724424
+address 0x2b6bf64e2240 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2280 is 5 46623724424
+address 0x2b6bf64e2280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e22c0 is 5 46623724424
+address 0x2b6bf64e22c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2300 is 6 46623724424
+address 0x2b6bf64e2300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2340 is 6 46623724424
+address 0x2b6bf64e2340 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2380 is 7 46623724424
+address 0x2b6bf64e2380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e23c0 is 7 46623724424
+address 0x2b6bf64e23c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2400 is 0 46623724425
+address 0x2b6bf64e2400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2440 is 0 46623724425
+address 0x2b6bf64e2440 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2480 is 1 46623724425
+address 0x2b6bf64e2480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e24c0 is 1 46623724425
+address 0x2b6bf64e24c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2500 is 2 46623724425
+address 0x2b6bf64e2500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2540 is 2 46623724425
+address 0x2b6bf64e2540 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2580 is 3 46623724425
+address 0x2b6bf64e2580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e25c0 is 3 46623724425
+address 0x2b6bf64e25c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2600 is 4 46623724425
+address 0x2b6bf64e2600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2640 is 4 46623724425
+address 0x2b6bf64e2640 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2680 is 5 46623724425
+address 0x2b6bf64e2680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e26c0 is 5 46623724425
+address 0x2b6bf64e26c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2700 is 6 46623724425
+address 0x2b6bf64e2700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2740 is 6 46623724425
+address 0x2b6bf64e2740 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2780 is 7 46623724425
+address 0x2b6bf64e2780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e27c0 is 7 46623724425
+address 0x2b6bf64e27c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2800 is 0 46623724426
+address 0x2b6bf64e2800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e2840 is 0 46623724426
+address 0x2b6bf64e2840 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2880 is 1 46623724426
+address 0x2b6bf64e2880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e28c0 is 1 46623724426
+address 0x2b6bf64e28c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2900 is 2 46623724426
+address 0x2b6bf64e2900 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2940 is 2 46623724426
+address 0x2b6bf64e2940 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2980 is 3 46623724426
+address 0x2b6bf64e2980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e29c0 is 3 46623724426
+address 0x2b6bf64e29c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2a00 is 4 46623724426
+address 0x2b6bf64e2a00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2a40 is 4 46623724426
+address 0x2b6bf64e2a40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2a80 is 5 46623724426
+address 0x2b6bf64e2a80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2ac0 is 5 46623724426
+address 0x2b6bf64e2ac0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2b00 is 6 46623724426
+address 0x2b6bf64e2b00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2b40 is 6 46623724426
+address 0x2b6bf64e2b40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2b80 is 7 46623724426
+address 0x2b6bf64e2b80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2bc0 is 7 46623724426
+address 0x2b6bf64e2bc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2c00 is 0 46623724427
+address 0x2b6bf64e2c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2c40 is 0 46623724427
+address 0x2b6bf64e2c40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2c80 is 1 46623724427
+address 0x2b6bf64e2c80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2cc0 is 1 46623724427
+address 0x2b6bf64e2cc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2d00 is 2 46623724427
+address 0x2b6bf64e2d00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2d40 is 2 46623724427
+address 0x2b6bf64e2d40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2d80 is 3 46623724427
+address 0x2b6bf64e2d80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2dc0 is 3 46623724427
+address 0x2b6bf64e2dc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2e00 is 4 46623724427
+address 0x2b6bf64e2e00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2e40 is 4 46623724427
+address 0x2b6bf64e2e40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2e80 is 5 46623724427
+address 0x2b6bf64e2e80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2ec0 is 5 46623724427
+address 0x2b6bf64e2ec0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2f00 is 6 46623724427
+address 0x2b6bf64e2f00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2f40 is 6 46623724427
+address 0x2b6bf64e2f40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e2f80 is 7 46623724427
+address 0x2b6bf64e2f80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e2fc0 is 7 46623724427
+address 0x2b6bf64e2fc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3000 is 0 46623724428
+address 0x2b6bf64e3000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e3040 is 0 46623724428
+address 0x2b6bf64e3040 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3080 is 1 46623724428
+address 0x2b6bf64e3080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e30c0 is 1 46623724428
+address 0x2b6bf64e30c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3100 is 2 46623724428
+address 0x2b6bf64e3100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3140 is 2 46623724428
+address 0x2b6bf64e3140 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3180 is 3 46623724428
+address 0x2b6bf64e3180 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e31c0 is 3 46623724428
+address 0x2b6bf64e31c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3200 is 4 46623724428
+address 0x2b6bf64e3200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3240 is 4 46623724428
+address 0x2b6bf64e3240 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3280 is 5 46623724428
+address 0x2b6bf64e3280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e32c0 is 5 46623724428
+address 0x2b6bf64e32c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3300 is 6 46623724428
+address 0x2b6bf64e3300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3340 is 6 46623724428
+address 0x2b6bf64e3340 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3380 is 7 46623724428
+address 0x2b6bf64e3380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e33c0 is 7 46623724428
+address 0x2b6bf64e33c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3400 is 0 46623724429
+address 0x2b6bf64e3400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3440 is 0 46623724429
+address 0x2b6bf64e3440 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3480 is 1 46623724429
+address 0x2b6bf64e3480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e34c0 is 1 46623724429
+address 0x2b6bf64e34c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3500 is 2 46623724429
+address 0x2b6bf64e3500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3540 is 2 46623724429
+address 0x2b6bf64e3540 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3580 is 3 46623724429
+address 0x2b6bf64e3580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e35c0 is 3 46623724429
+address 0x2b6bf64e35c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3600 is 4 46623724429
+address 0x2b6bf64e3600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3640 is 4 46623724429
+address 0x2b6bf64e3640 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3680 is 5 46623724429
+address 0x2b6bf64e3680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e36c0 is 5 46623724429
+address 0x2b6bf64e36c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3700 is 6 46623724429
+address 0x2b6bf64e3700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3740 is 6 46623724429
+address 0x2b6bf64e3740 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3780 is 7 46623724429
+address 0x2b6bf64e3780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e37c0 is 7 46623724429
+address 0x2b6bf64e37c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3800 is 0 46623724430
+address 0x2b6bf64e3800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e3840 is 0 46623724430
+address 0x2b6bf64e3840 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3880 is 1 46623724430
+address 0x2b6bf64e3880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e38c0 is 1 46623724430
+address 0x2b6bf64e38c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3900 is 2 46623724430
+address 0x2b6bf64e3900 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3940 is 2 46623724430
+address 0x2b6bf64e3940 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3980 is 3 46623724430
+address 0x2b6bf64e3980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e39c0 is 3 46623724430
+address 0x2b6bf64e39c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3a00 is 4 46623724430
+address 0x2b6bf64e3a00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3a40 is 4 46623724430
+address 0x2b6bf64e3a40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3a80 is 5 46623724430
+address 0x2b6bf64e3a80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3ac0 is 5 46623724430
+address 0x2b6bf64e3ac0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3b00 is 6 46623724430
+address 0x2b6bf64e3b00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3b40 is 6 46623724430
+address 0x2b6bf64e3b40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3b80 is 7 46623724430
+address 0x2b6bf64e3b80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3bc0 is 7 46623724430
+address 0x2b6bf64e3bc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3c00 is 0 46623724431
+address 0x2b6bf64e3c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3c40 is 0 46623724431
+address 0x2b6bf64e3c40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3c80 is 1 46623724431
+address 0x2b6bf64e3c80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3cc0 is 1 46623724431
+address 0x2b6bf64e3cc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3d00 is 2 46623724431
+address 0x2b6bf64e3d00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3d40 is 2 46623724431
+address 0x2b6bf64e3d40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3d80 is 3 46623724431
+address 0x2b6bf64e3d80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3dc0 is 3 46623724431
+address 0x2b6bf64e3dc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3e00 is 4 46623724431
+address 0x2b6bf64e3e00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3e40 is 4 46623724431
+address 0x2b6bf64e3e40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3e80 is 5 46623724431
+address 0x2b6bf64e3e80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3ec0 is 5 46623724431
+address 0x2b6bf64e3ec0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3f00 is 6 46623724431
+address 0x2b6bf64e3f00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3f40 is 6 46623724431
+address 0x2b6bf64e3f40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e3f80 is 7 46623724431
+address 0x2b6bf64e3f80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e3fc0 is 7 46623724431
+address 0x2b6bf64e3fc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4000 is 0 46623724432
+address 0x2b6bf64e4000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e4040 is 0 46623724432
+address 0x2b6bf64e4040 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4080 is 1 46623724432
+address 0x2b6bf64e4080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e40c0 is 1 46623724432
+address 0x2b6bf64e40c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4100 is 2 46623724432
+address 0x2b6bf64e4100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4140 is 2 46623724432
+address 0x2b6bf64e4140 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4180 is 3 46623724432
+address 0x2b6bf64e4180 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e41c0 is 3 46623724432
+address 0x2b6bf64e41c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4200 is 4 46623724432
+address 0x2b6bf64e4200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4240 is 4 46623724432
+address 0x2b6bf64e4240 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4280 is 5 46623724432
+address 0x2b6bf64e4280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e42c0 is 5 46623724432
+address 0x2b6bf64e42c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4300 is 6 46623724432
+address 0x2b6bf64e4300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4340 is 6 46623724432
+address 0x2b6bf64e4340 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4380 is 7 46623724432
+address 0x2b6bf64e4380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e43c0 is 7 46623724432
+address 0x2b6bf64e43c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4400 is 0 46623724433
+address 0x2b6bf64e4400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4440 is 0 46623724433
+address 0x2b6bf64e4440 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4480 is 1 46623724433
+address 0x2b6bf64e4480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e44c0 is 1 46623724433
+address 0x2b6bf64e44c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4500 is 2 46623724433
+address 0x2b6bf64e4500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4540 is 2 46623724433
+address 0x2b6bf64e4540 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4580 is 3 46623724433
+address 0x2b6bf64e4580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e45c0 is 3 46623724433
+address 0x2b6bf64e45c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4600 is 4 46623724433
+address 0x2b6bf64e4600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4640 is 4 46623724433
+address 0x2b6bf64e4640 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4680 is 5 46623724433
+address 0x2b6bf64e4680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e46c0 is 5 46623724433
+address 0x2b6bf64e46c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4700 is 6 46623724433
+address 0x2b6bf64e4700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4740 is 6 46623724433
+address 0x2b6bf64e4740 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4780 is 7 46623724433
+address 0x2b6bf64e4780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e47c0 is 7 46623724433
+address 0x2b6bf64e47c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4800 is 0 46623724434
+address 0x2b6bf64e4800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e4840 is 0 46623724434
+address 0x2b6bf64e4840 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4880 is 1 46623724434
+address 0x2b6bf64e4880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e48c0 is 1 46623724434
+address 0x2b6bf64e48c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4900 is 2 46623724434
+address 0x2b6bf64e4900 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4940 is 2 46623724434
+address 0x2b6bf64e4940 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4980 is 3 46623724434
+address 0x2b6bf64e4980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e49c0 is 3 46623724434
+address 0x2b6bf64e49c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4a00 is 4 46623724434
+address 0x2b6bf64e4a00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4a40 is 4 46623724434
+address 0x2b6bf64e4a40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4a80 is 5 46623724434
+address 0x2b6bf64e4a80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4ac0 is 5 46623724434
+address 0x2b6bf64e4ac0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4b00 is 6 46623724434
+address 0x2b6bf64e4b00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4b40 is 6 46623724434
+address 0x2b6bf64e4b40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4b80 is 7 46623724434
+address 0x2b6bf64e4b80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4bc0 is 7 46623724434
+address 0x2b6bf64e4bc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4c00 is 0 46623724435
+address 0x2b6bf64e4c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4c40 is 0 46623724435
+address 0x2b6bf64e4c40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4c80 is 1 46623724435
+address 0x2b6bf64e4c80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4cc0 is 1 46623724435
+address 0x2b6bf64e4cc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4d00 is 2 46623724435
+address 0x2b6bf64e4d00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4d40 is 2 46623724435
+address 0x2b6bf64e4d40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4d80 is 3 46623724435
+address 0x2b6bf64e4d80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4dc0 is 3 46623724435
+address 0x2b6bf64e4dc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4e00 is 4 46623724435
+address 0x2b6bf64e4e00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4e40 is 4 46623724435
+address 0x2b6bf64e4e40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4e80 is 5 46623724435
+address 0x2b6bf64e4e80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4ec0 is 5 46623724435
+address 0x2b6bf64e4ec0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4f00 is 6 46623724435
+address 0x2b6bf64e4f00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4f40 is 6 46623724435
+address 0x2b6bf64e4f40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e4f80 is 7 46623724435
+address 0x2b6bf64e4f80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e4fc0 is 7 46623724435
+address 0x2b6bf64e4fc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5000 is 0 46623724436
+address 0x2b6bf64e5000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e5040 is 0 46623724436
+address 0x2b6bf64e5040 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5080 is 1 46623724436
+address 0x2b6bf64e5080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e50c0 is 1 46623724436
+address 0x2b6bf64e50c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5100 is 2 46623724436
+address 0x2b6bf64e5100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5140 is 2 46623724436
+address 0x2b6bf64e5140 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5180 is 3 46623724436
+address 0x2b6bf64e5180 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e51c0 is 3 46623724436
+address 0x2b6bf64e51c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5200 is 4 46623724436
+address 0x2b6bf64e5200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5240 is 4 46623724436
+address 0x2b6bf64e5240 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5280 is 5 46623724436
+address 0x2b6bf64e5280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e52c0 is 5 46623724436
+address 0x2b6bf64e52c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5300 is 6 46623724436
+address 0x2b6bf64e5300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5340 is 6 46623724436
+address 0x2b6bf64e5340 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5380 is 7 46623724436
+address 0x2b6bf64e5380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e53c0 is 7 46623724436
+address 0x2b6bf64e53c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5400 is 0 46623724437
+address 0x2b6bf64e5400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5440 is 0 46623724437
+address 0x2b6bf64e5440 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5480 is 1 46623724437
+address 0x2b6bf64e5480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e54c0 is 1 46623724437
+address 0x2b6bf64e54c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5500 is 2 46623724437
+address 0x2b6bf64e5500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5540 is 2 46623724437
+address 0x2b6bf64e5540 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5580 is 3 46623724437
+address 0x2b6bf64e5580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e55c0 is 3 46623724437
+address 0x2b6bf64e55c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5600 is 4 46623724437
+address 0x2b6bf64e5600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5640 is 4 46623724437
+address 0x2b6bf64e5640 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5680 is 5 46623724437
+address 0x2b6bf64e5680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e56c0 is 5 46623724437
+address 0x2b6bf64e56c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5700 is 6 46623724437
+address 0x2b6bf64e5700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5740 is 6 46623724437
+address 0x2b6bf64e5740 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5780 is 7 46623724437
+address 0x2b6bf64e5780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e57c0 is 7 46623724437
+address 0x2b6bf64e57c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5800 is 0 46623724438
+address 0x2b6bf64e5800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e5840 is 0 46623724438
+address 0x2b6bf64e5840 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5880 is 1 46623724438
+address 0x2b6bf64e5880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e58c0 is 1 46623724438
+address 0x2b6bf64e58c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5900 is 2 46623724438
+address 0x2b6bf64e5900 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5940 is 2 46623724438
+address 0x2b6bf64e5940 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5980 is 3 46623724438
+address 0x2b6bf64e5980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e59c0 is 3 46623724438
+address 0x2b6bf64e59c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5a00 is 4 46623724438
+address 0x2b6bf64e5a00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5a40 is 4 46623724438
+address 0x2b6bf64e5a40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5a80 is 5 46623724438
+address 0x2b6bf64e5a80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5ac0 is 5 46623724438
+address 0x2b6bf64e5ac0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5b00 is 6 46623724438
+address 0x2b6bf64e5b00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5b40 is 6 46623724438
+address 0x2b6bf64e5b40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5b80 is 7 46623724438
+address 0x2b6bf64e5b80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5bc0 is 7 46623724438
+address 0x2b6bf64e5bc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5c00 is 0 46623724439
+address 0x2b6bf64e5c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5c40 is 0 46623724439
+address 0x2b6bf64e5c40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5c80 is 1 46623724439
+address 0x2b6bf64e5c80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5cc0 is 1 46623724439
+address 0x2b6bf64e5cc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5d00 is 2 46623724439
+address 0x2b6bf64e5d00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5d40 is 2 46623724439
+address 0x2b6bf64e5d40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5d80 is 3 46623724439
+address 0x2b6bf64e5d80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5dc0 is 3 46623724439
+address 0x2b6bf64e5dc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5e00 is 4 46623724439
+address 0x2b6bf64e5e00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5e40 is 4 46623724439
+address 0x2b6bf64e5e40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5e80 is 5 46623724439
+address 0x2b6bf64e5e80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5ec0 is 5 46623724439
+address 0x2b6bf64e5ec0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5f00 is 6 46623724439
+address 0x2b6bf64e5f00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5f40 is 6 46623724439
+address 0x2b6bf64e5f40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e5f80 is 7 46623724439
+address 0x2b6bf64e5f80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e5fc0 is 7 46623724439
+address 0x2b6bf64e5fc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6000 is 0 46623724440
+address 0x2b6bf64e6000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e6040 is 0 46623724440
+address 0x2b6bf64e6040 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6080 is 1 46623724440
+address 0x2b6bf64e6080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e60c0 is 1 46623724440
+address 0x2b6bf64e60c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6100 is 2 46623724440
+address 0x2b6bf64e6100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6140 is 2 46623724440
+address 0x2b6bf64e6140 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6180 is 3 46623724440
+address 0x2b6bf64e6180 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e61c0 is 3 46623724440
+address 0x2b6bf64e61c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6200 is 4 46623724440
+address 0x2b6bf64e6200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6240 is 4 46623724440
+address 0x2b6bf64e6240 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6280 is 5 46623724440
+address 0x2b6bf64e6280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e62c0 is 5 46623724440
+address 0x2b6bf64e62c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6300 is 6 46623724440
+address 0x2b6bf64e6300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6340 is 6 46623724440
+address 0x2b6bf64e6340 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6380 is 7 46623724440
+address 0x2b6bf64e6380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e63c0 is 7 46623724440
+address 0x2b6bf64e63c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6400 is 0 46623724441
+address 0x2b6bf64e6400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6440 is 0 46623724441
+address 0x2b6bf64e6440 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6480 is 1 46623724441
+address 0x2b6bf64e6480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e64c0 is 1 46623724441
+address 0x2b6bf64e64c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6500 is 2 46623724441
+address 0x2b6bf64e6500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6540 is 2 46623724441
+address 0x2b6bf64e6540 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6580 is 3 46623724441
+address 0x2b6bf64e6580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e65c0 is 3 46623724441
+address 0x2b6bf64e65c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6600 is 4 46623724441
+address 0x2b6bf64e6600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6640 is 4 46623724441
+address 0x2b6bf64e6640 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6680 is 5 46623724441
+address 0x2b6bf64e6680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e66c0 is 5 46623724441
+address 0x2b6bf64e66c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6700 is 6 46623724441
+address 0x2b6bf64e6700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6740 is 6 46623724441
+address 0x2b6bf64e6740 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6780 is 7 46623724441
+address 0x2b6bf64e6780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e67c0 is 7 46623724441
+address 0x2b6bf64e67c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6800 is 0 46623724442
+address 0x2b6bf64e6800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e6840 is 0 46623724442
+address 0x2b6bf64e6840 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6880 is 1 46623724442
+address 0x2b6bf64e6880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e68c0 is 1 46623724442
+address 0x2b6bf64e68c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6900 is 2 46623724442
+address 0x2b6bf64e6900 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6940 is 2 46623724442
+address 0x2b6bf64e6940 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6980 is 3 46623724442
+address 0x2b6bf64e6980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e69c0 is 3 46623724442
+address 0x2b6bf64e69c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6a00 is 4 46623724442
+address 0x2b6bf64e6a00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6a40 is 4 46623724442
+address 0x2b6bf64e6a40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6a80 is 5 46623724442
+address 0x2b6bf64e6a80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6ac0 is 5 46623724442
+address 0x2b6bf64e6ac0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6b00 is 6 46623724442
+address 0x2b6bf64e6b00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6b40 is 6 46623724442
+address 0x2b6bf64e6b40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6b80 is 7 46623724442
+address 0x2b6bf64e6b80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6bc0 is 7 46623724442
+address 0x2b6bf64e6bc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6c00 is 0 46623724443
+address 0x2b6bf64e6c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6c40 is 0 46623724443
+address 0x2b6bf64e6c40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6c80 is 1 46623724443
+address 0x2b6bf64e6c80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6cc0 is 1 46623724443
+address 0x2b6bf64e6cc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6d00 is 2 46623724443
+address 0x2b6bf64e6d00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6d40 is 2 46623724443
+address 0x2b6bf64e6d40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6d80 is 3 46623724443
+address 0x2b6bf64e6d80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6dc0 is 3 46623724443
+address 0x2b6bf64e6dc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6e00 is 4 46623724443
+address 0x2b6bf64e6e00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6e40 is 4 46623724443
+address 0x2b6bf64e6e40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6e80 is 5 46623724443
+address 0x2b6bf64e6e80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6ec0 is 5 46623724443
+address 0x2b6bf64e6ec0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6f00 is 6 46623724443
+address 0x2b6bf64e6f00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6f40 is 6 46623724443
+address 0x2b6bf64e6f40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e6f80 is 7 46623724443
+address 0x2b6bf64e6f80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e6fc0 is 7 46623724443
+address 0x2b6bf64e6fc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7000 is 0 46623724444
+address 0x2b6bf64e7000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e7040 is 0 46623724444
+address 0x2b6bf64e7040 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7080 is 1 46623724444
+address 0x2b6bf64e7080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e70c0 is 1 46623724444
+address 0x2b6bf64e70c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7100 is 2 46623724444
+address 0x2b6bf64e7100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7140 is 2 46623724444
+address 0x2b6bf64e7140 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7180 is 3 46623724444
+address 0x2b6bf64e7180 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e71c0 is 3 46623724444
+address 0x2b6bf64e71c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7200 is 4 46623724444
+address 0x2b6bf64e7200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7240 is 4 46623724444
+address 0x2b6bf64e7240 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7280 is 5 46623724444
+address 0x2b6bf64e7280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e72c0 is 5 46623724444
+address 0x2b6bf64e72c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7300 is 6 46623724444
+address 0x2b6bf64e7300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7340 is 6 46623724444
+address 0x2b6bf64e7340 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7380 is 7 46623724444
+address 0x2b6bf64e7380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e73c0 is 7 46623724444
+address 0x2b6bf64e73c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7400 is 0 46623724445
+address 0x2b6bf64e7400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7440 is 0 46623724445
+address 0x2b6bf64e7440 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7480 is 1 46623724445
+address 0x2b6bf64e7480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e74c0 is 1 46623724445
+address 0x2b6bf64e74c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7500 is 2 46623724445
+address 0x2b6bf64e7500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7540 is 2 46623724445
+address 0x2b6bf64e7540 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7580 is 3 46623724445
+address 0x2b6bf64e7580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e75c0 is 3 46623724445
+address 0x2b6bf64e75c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7600 is 4 46623724445
+address 0x2b6bf64e7600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7640 is 4 46623724445
+address 0x2b6bf64e7640 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7680 is 5 46623724445
+address 0x2b6bf64e7680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e76c0 is 5 46623724445
+address 0x2b6bf64e76c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7700 is 6 46623724445
+address 0x2b6bf64e7700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7740 is 6 46623724445
+address 0x2b6bf64e7740 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7780 is 7 46623724445
+address 0x2b6bf64e7780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e77c0 is 7 46623724445
+address 0x2b6bf64e77c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7800 is 0 46623724446
+address 0x2b6bf64e7800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e7840 is 0 46623724446
+address 0x2b6bf64e7840 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7880 is 1 46623724446
+address 0x2b6bf64e7880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e78c0 is 1 46623724446
+address 0x2b6bf64e78c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7900 is 2 46623724446
+address 0x2b6bf64e7900 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7940 is 2 46623724446
+address 0x2b6bf64e7940 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7980 is 3 46623724446
+address 0x2b6bf64e7980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e79c0 is 3 46623724446
+address 0x2b6bf64e79c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7a00 is 4 46623724446
+address 0x2b6bf64e7a00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7a40 is 4 46623724446
+address 0x2b6bf64e7a40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7a80 is 5 46623724446
+address 0x2b6bf64e7a80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7ac0 is 5 46623724446
+address 0x2b6bf64e7ac0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7b00 is 6 46623724446
+address 0x2b6bf64e7b00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7b40 is 6 46623724446
+address 0x2b6bf64e7b40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7b80 is 7 46623724446
+address 0x2b6bf64e7b80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7bc0 is 7 46623724446
+address 0x2b6bf64e7bc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7c00 is 0 46623724447
+address 0x2b6bf64e7c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7c40 is 0 46623724447
+address 0x2b6bf64e7c40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7c80 is 1 46623724447
+address 0x2b6bf64e7c80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7cc0 is 1 46623724447
+address 0x2b6bf64e7cc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7d00 is 2 46623724447
+address 0x2b6bf64e7d00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7d40 is 2 46623724447
+address 0x2b6bf64e7d40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7d80 is 3 46623724447
+address 0x2b6bf64e7d80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7dc0 is 3 46623724447
+address 0x2b6bf64e7dc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7e00 is 4 46623724447
+address 0x2b6bf64e7e00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7e40 is 4 46623724447
+address 0x2b6bf64e7e40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7e80 is 5 46623724447
+address 0x2b6bf64e7e80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7ec0 is 5 46623724447
+address 0x2b6bf64e7ec0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7f00 is 6 46623724447
+address 0x2b6bf64e7f00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7f40 is 6 46623724447
+address 0x2b6bf64e7f40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e7f80 is 7 46623724447
+address 0x2b6bf64e7f80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e7fc0 is 7 46623724447
+address 0x2b6bf64e7fc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8000 is 0 46623724448
+address 0x2b6bf64e8000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e8040 is 0 46623724448
+address 0x2b6bf64e8040 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8080 is 1 46623724448
+address 0x2b6bf64e8080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e80c0 is 1 46623724448
+address 0x2b6bf64e80c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8100 is 2 46623724448
+address 0x2b6bf64e8100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8140 is 2 46623724448
+address 0x2b6bf64e8140 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8180 is 3 46623724448
+address 0x2b6bf64e8180 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e81c0 is 3 46623724448
+address 0x2b6bf64e81c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8200 is 4 46623724448
+address 0x2b6bf64e8200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8240 is 4 46623724448
+address 0x2b6bf64e8240 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8280 is 5 46623724448
+address 0x2b6bf64e8280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e82c0 is 5 46623724448
+address 0x2b6bf64e82c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8300 is 6 46623724448
+address 0x2b6bf64e8300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8340 is 6 46623724448
+address 0x2b6bf64e8340 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8380 is 7 46623724448
+address 0x2b6bf64e8380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e83c0 is 7 46623724448
+address 0x2b6bf64e83c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8400 is 0 46623724449
+address 0x2b6bf64e8400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8440 is 0 46623724449
+address 0x2b6bf64e8440 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8480 is 1 46623724449
+address 0x2b6bf64e8480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e84c0 is 1 46623724449
+address 0x2b6bf64e84c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8500 is 2 46623724449
+address 0x2b6bf64e8500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8540 is 2 46623724449
+address 0x2b6bf64e8540 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8580 is 3 46623724449
+address 0x2b6bf64e8580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e85c0 is 3 46623724449
+address 0x2b6bf64e85c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8600 is 4 46623724449
+address 0x2b6bf64e8600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8640 is 4 46623724449
+address 0x2b6bf64e8640 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8680 is 5 46623724449
+address 0x2b6bf64e8680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e86c0 is 5 46623724449
+address 0x2b6bf64e86c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8700 is 6 46623724449
+address 0x2b6bf64e8700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8740 is 6 46623724449
+address 0x2b6bf64e8740 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8780 is 7 46623724449
+address 0x2b6bf64e8780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e87c0 is 7 46623724449
+address 0x2b6bf64e87c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8800 is 0 46623724450
+address 0x2b6bf64e8800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e8840 is 0 46623724450
+address 0x2b6bf64e8840 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8880 is 1 46623724450
+address 0x2b6bf64e8880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e88c0 is 1 46623724450
+address 0x2b6bf64e88c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8900 is 2 46623724450
+address 0x2b6bf64e8900 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8940 is 2 46623724450
+address 0x2b6bf64e8940 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8980 is 3 46623724450
+address 0x2b6bf64e8980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e89c0 is 3 46623724450
+address 0x2b6bf64e89c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8a00 is 4 46623724450
+address 0x2b6bf64e8a00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8a40 is 4 46623724450
+address 0x2b6bf64e8a40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8a80 is 5 46623724450
+address 0x2b6bf64e8a80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8ac0 is 5 46623724450
+address 0x2b6bf64e8ac0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8b00 is 6 46623724450
+address 0x2b6bf64e8b00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8b40 is 6 46623724450
+address 0x2b6bf64e8b40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8b80 is 7 46623724450
+address 0x2b6bf64e8b80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8bc0 is 7 46623724450
+address 0x2b6bf64e8bc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8c00 is 0 46623724451
+address 0x2b6bf64e8c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8c40 is 0 46623724451
+address 0x2b6bf64e8c40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8c80 is 1 46623724451
+address 0x2b6bf64e8c80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8cc0 is 1 46623724451
+address 0x2b6bf64e8cc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8d00 is 2 46623724451
+address 0x2b6bf64e8d00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8d40 is 2 46623724451
+address 0x2b6bf64e8d40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8d80 is 3 46623724451
+address 0x2b6bf64e8d80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8dc0 is 3 46623724451
+address 0x2b6bf64e8dc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8e00 is 4 46623724451
+address 0x2b6bf64e8e00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8e40 is 4 46623724451
+address 0x2b6bf64e8e40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8e80 is 5 46623724451
+address 0x2b6bf64e8e80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8ec0 is 5 46623724451
+address 0x2b6bf64e8ec0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8f00 is 6 46623724451
+address 0x2b6bf64e8f00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8f40 is 6 46623724451
+address 0x2b6bf64e8f40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e8f80 is 7 46623724451
+address 0x2b6bf64e8f80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e8fc0 is 7 46623724451
+address 0x2b6bf64e8fc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9000 is 0 46623724452
+address 0x2b6bf64e9000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e9040 is 0 46623724452
+address 0x2b6bf64e9040 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9080 is 1 46623724452
+address 0x2b6bf64e9080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e90c0 is 1 46623724452
+address 0x2b6bf64e90c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9100 is 2 46623724452
+address 0x2b6bf64e9100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9140 is 2 46623724452
+address 0x2b6bf64e9140 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9180 is 3 46623724452
+address 0x2b6bf64e9180 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e91c0 is 3 46623724452
+address 0x2b6bf64e91c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9200 is 4 46623724452
+address 0x2b6bf64e9200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9240 is 4 46623724452
+address 0x2b6bf64e9240 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9280 is 5 46623724452
+address 0x2b6bf64e9280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e92c0 is 5 46623724452
+address 0x2b6bf64e92c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9300 is 6 46623724452
+address 0x2b6bf64e9300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9340 is 6 46623724452
+address 0x2b6bf64e9340 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9380 is 7 46623724452
+address 0x2b6bf64e9380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e93c0 is 7 46623724452
+address 0x2b6bf64e93c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9400 is 0 46623724453
+address 0x2b6bf64e9400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9440 is 0 46623724453
+address 0x2b6bf64e9440 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9480 is 1 46623724453
+address 0x2b6bf64e9480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e94c0 is 1 46623724453
+address 0x2b6bf64e94c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9500 is 2 46623724453
+address 0x2b6bf64e9500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9540 is 2 46623724453
+address 0x2b6bf64e9540 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9580 is 3 46623724453
+address 0x2b6bf64e9580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e95c0 is 3 46623724453
+address 0x2b6bf64e95c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9600 is 4 46623724453
+address 0x2b6bf64e9600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9640 is 4 46623724453
+address 0x2b6bf64e9640 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9680 is 5 46623724453
+address 0x2b6bf64e9680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e96c0 is 5 46623724453
+address 0x2b6bf64e96c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9700 is 6 46623724453
+address 0x2b6bf64e9700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9740 is 6 46623724453
+address 0x2b6bf64e9740 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9780 is 7 46623724453
+address 0x2b6bf64e9780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e97c0 is 7 46623724453
+address 0x2b6bf64e97c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9800 is 0 46623724454
+address 0x2b6bf64e9800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64e9840 is 0 46623724454
+address 0x2b6bf64e9840 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9880 is 1 46623724454
+address 0x2b6bf64e9880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e98c0 is 1 46623724454
+address 0x2b6bf64e98c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9900 is 2 46623724454
+address 0x2b6bf64e9900 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9940 is 2 46623724454
+address 0x2b6bf64e9940 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9980 is 3 46623724454
+address 0x2b6bf64e9980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e99c0 is 3 46623724454
+address 0x2b6bf64e99c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9a00 is 4 46623724454
+address 0x2b6bf64e9a00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9a40 is 4 46623724454
+address 0x2b6bf64e9a40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9a80 is 5 46623724454
+address 0x2b6bf64e9a80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9ac0 is 5 46623724454
+address 0x2b6bf64e9ac0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9b00 is 6 46623724454
+address 0x2b6bf64e9b00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9b40 is 6 46623724454
+address 0x2b6bf64e9b40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9b80 is 7 46623724454
+address 0x2b6bf64e9b80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9bc0 is 7 46623724454
+address 0x2b6bf64e9bc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9c00 is 0 46623724455
+address 0x2b6bf64e9c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9c40 is 0 46623724455
+address 0x2b6bf64e9c40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9c80 is 1 46623724455
+address 0x2b6bf64e9c80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9cc0 is 1 46623724455
+address 0x2b6bf64e9cc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9d00 is 2 46623724455
+address 0x2b6bf64e9d00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9d40 is 2 46623724455
+address 0x2b6bf64e9d40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9d80 is 3 46623724455
+address 0x2b6bf64e9d80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9dc0 is 3 46623724455
+address 0x2b6bf64e9dc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9e00 is 4 46623724455
+address 0x2b6bf64e9e00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9e40 is 4 46623724455
+address 0x2b6bf64e9e40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9e80 is 5 46623724455
+address 0x2b6bf64e9e80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9ec0 is 5 46623724455
+address 0x2b6bf64e9ec0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9f00 is 6 46623724455
+address 0x2b6bf64e9f00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9f40 is 6 46623724455
+address 0x2b6bf64e9f40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64e9f80 is 7 46623724455
+address 0x2b6bf64e9f80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64e9fc0 is 7 46623724455
+address 0x2b6bf64e9fc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea000 is 0 46623724456
+address 0x2b6bf64ea000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64ea040 is 0 46623724456
+address 0x2b6bf64ea040 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea080 is 1 46623724456
+address 0x2b6bf64ea080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea0c0 is 1 46623724456
+address 0x2b6bf64ea0c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea100 is 2 46623724456
+address 0x2b6bf64ea100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea140 is 2 46623724456
+address 0x2b6bf64ea140 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea180 is 3 46623724456
+address 0x2b6bf64ea180 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea1c0 is 3 46623724456
+address 0x2b6bf64ea1c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea200 is 4 46623724456
+address 0x2b6bf64ea200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea240 is 4 46623724456
+address 0x2b6bf64ea240 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea280 is 5 46623724456
+address 0x2b6bf64ea280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea2c0 is 5 46623724456
+address 0x2b6bf64ea2c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea300 is 6 46623724456
+address 0x2b6bf64ea300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea340 is 6 46623724456
+address 0x2b6bf64ea340 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea380 is 7 46623724456
+address 0x2b6bf64ea380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea3c0 is 7 46623724456
+address 0x2b6bf64ea3c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea400 is 0 46623724457
+address 0x2b6bf64ea400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea440 is 0 46623724457
+address 0x2b6bf64ea440 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea480 is 1 46623724457
+address 0x2b6bf64ea480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea4c0 is 1 46623724457
+address 0x2b6bf64ea4c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea500 is 2 46623724457
+address 0x2b6bf64ea500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea540 is 2 46623724457
+address 0x2b6bf64ea540 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea580 is 3 46623724457
+address 0x2b6bf64ea580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea5c0 is 3 46623724457
+address 0x2b6bf64ea5c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea600 is 4 46623724457
+address 0x2b6bf64ea600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea640 is 4 46623724457
+address 0x2b6bf64ea640 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea680 is 5 46623724457
+address 0x2b6bf64ea680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea6c0 is 5 46623724457
+address 0x2b6bf64ea6c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea700 is 6 46623724457
+address 0x2b6bf64ea700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea740 is 6 46623724457
+address 0x2b6bf64ea740 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea780 is 7 46623724457
+address 0x2b6bf64ea780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea7c0 is 7 46623724457
+address 0x2b6bf64ea7c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea800 is 0 46623724458
+address 0x2b6bf64ea800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64ea840 is 0 46623724458
+address 0x2b6bf64ea840 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea880 is 1 46623724458
+address 0x2b6bf64ea880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea8c0 is 1 46623724458
+address 0x2b6bf64ea8c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea900 is 2 46623724458
+address 0x2b6bf64ea900 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea940 is 2 46623724458
+address 0x2b6bf64ea940 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ea980 is 3 46623724458
+address 0x2b6bf64ea980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ea9c0 is 3 46623724458
+address 0x2b6bf64ea9c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eaa00 is 4 46623724458
+address 0x2b6bf64eaa00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eaa40 is 4 46623724458
+address 0x2b6bf64eaa40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eaa80 is 5 46623724458
+address 0x2b6bf64eaa80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eaac0 is 5 46623724458
+address 0x2b6bf64eaac0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eab00 is 6 46623724458
+address 0x2b6bf64eab00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eab40 is 6 46623724458
+address 0x2b6bf64eab40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eab80 is 7 46623724458
+address 0x2b6bf64eab80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eabc0 is 7 46623724458
+address 0x2b6bf64eabc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eac00 is 0 46623724459
+address 0x2b6bf64eac00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eac40 is 0 46623724459
+address 0x2b6bf64eac40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eac80 is 1 46623724459
+address 0x2b6bf64eac80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eacc0 is 1 46623724459
+address 0x2b6bf64eacc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ead00 is 2 46623724459
+address 0x2b6bf64ead00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ead40 is 2 46623724459
+address 0x2b6bf64ead40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ead80 is 3 46623724459
+address 0x2b6bf64ead80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eadc0 is 3 46623724459
+address 0x2b6bf64eadc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eae00 is 4 46623724459
+address 0x2b6bf64eae00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eae40 is 4 46623724459
+address 0x2b6bf64eae40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eae80 is 5 46623724459
+address 0x2b6bf64eae80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eaec0 is 5 46623724459
+address 0x2b6bf64eaec0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eaf00 is 6 46623724459
+address 0x2b6bf64eaf00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eaf40 is 6 46623724459
+address 0x2b6bf64eaf40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eaf80 is 7 46623724459
+address 0x2b6bf64eaf80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eafc0 is 7 46623724459
+address 0x2b6bf64eafc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb000 is 0 46623724460
+address 0x2b6bf64eb000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64eb040 is 0 46623724460
+address 0x2b6bf64eb040 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb080 is 1 46623724460
+address 0x2b6bf64eb080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb0c0 is 1 46623724460
+address 0x2b6bf64eb0c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb100 is 2 46623724460
+address 0x2b6bf64eb100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb140 is 2 46623724460
+address 0x2b6bf64eb140 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb180 is 3 46623724460
+address 0x2b6bf64eb180 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb1c0 is 3 46623724460
+address 0x2b6bf64eb1c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb200 is 4 46623724460
+address 0x2b6bf64eb200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb240 is 4 46623724460
+address 0x2b6bf64eb240 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb280 is 5 46623724460
+address 0x2b6bf64eb280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb2c0 is 5 46623724460
+address 0x2b6bf64eb2c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb300 is 6 46623724460
+address 0x2b6bf64eb300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb340 is 6 46623724460
+address 0x2b6bf64eb340 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb380 is 7 46623724460
+address 0x2b6bf64eb380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb3c0 is 7 46623724460
+address 0x2b6bf64eb3c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb400 is 0 46623724461
+address 0x2b6bf64eb400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb440 is 0 46623724461
+address 0x2b6bf64eb440 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb480 is 1 46623724461
+address 0x2b6bf64eb480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb4c0 is 1 46623724461
+address 0x2b6bf64eb4c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb500 is 2 46623724461
+address 0x2b6bf64eb500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb540 is 2 46623724461
+address 0x2b6bf64eb540 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb580 is 3 46623724461
+address 0x2b6bf64eb580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb5c0 is 3 46623724461
+address 0x2b6bf64eb5c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb600 is 4 46623724461
+address 0x2b6bf64eb600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb640 is 4 46623724461
+address 0x2b6bf64eb640 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb680 is 5 46623724461
+address 0x2b6bf64eb680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb6c0 is 5 46623724461
+address 0x2b6bf64eb6c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb700 is 6 46623724461
+address 0x2b6bf64eb700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb740 is 6 46623724461
+address 0x2b6bf64eb740 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb780 is 7 46623724461
+address 0x2b6bf64eb780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb7c0 is 7 46623724461
+address 0x2b6bf64eb7c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb800 is 0 46623724462
+address 0x2b6bf64eb800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64eb840 is 0 46623724462
+address 0x2b6bf64eb840 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb880 is 1 46623724462
+address 0x2b6bf64eb880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb8c0 is 1 46623724462
+address 0x2b6bf64eb8c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb900 is 2 46623724462
+address 0x2b6bf64eb900 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb940 is 2 46623724462
+address 0x2b6bf64eb940 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eb980 is 3 46623724462
+address 0x2b6bf64eb980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eb9c0 is 3 46623724462
+address 0x2b6bf64eb9c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eba00 is 4 46623724462
+address 0x2b6bf64eba00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eba40 is 4 46623724462
+address 0x2b6bf64eba40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eba80 is 5 46623724462
+address 0x2b6bf64eba80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ebac0 is 5 46623724462
+address 0x2b6bf64ebac0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ebb00 is 6 46623724462
+address 0x2b6bf64ebb00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ebb40 is 6 46623724462
+address 0x2b6bf64ebb40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ebb80 is 7 46623724462
+address 0x2b6bf64ebb80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ebbc0 is 7 46623724462
+address 0x2b6bf64ebbc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ebc00 is 0 46623724463
+address 0x2b6bf64ebc00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ebc40 is 0 46623724463
+address 0x2b6bf64ebc40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ebc80 is 1 46623724463
+address 0x2b6bf64ebc80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ebcc0 is 1 46623724463
+address 0x2b6bf64ebcc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ebd00 is 2 46623724463
+address 0x2b6bf64ebd00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ebd40 is 2 46623724463
+address 0x2b6bf64ebd40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ebd80 is 3 46623724463
+address 0x2b6bf64ebd80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ebdc0 is 3 46623724463
+address 0x2b6bf64ebdc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ebe00 is 4 46623724463
+address 0x2b6bf64ebe00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ebe40 is 4 46623724463
+address 0x2b6bf64ebe40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ebe80 is 5 46623724463
+address 0x2b6bf64ebe80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ebec0 is 5 46623724463
+address 0x2b6bf64ebec0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ebf00 is 6 46623724463
+address 0x2b6bf64ebf00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ebf40 is 6 46623724463
+address 0x2b6bf64ebf40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ebf80 is 7 46623724463
+address 0x2b6bf64ebf80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ebfc0 is 7 46623724463
+address 0x2b6bf64ebfc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec000 is 0 46623724464
+address 0x2b6bf64ec000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64ec040 is 0 46623724464
+address 0x2b6bf64ec040 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec080 is 1 46623724464
+address 0x2b6bf64ec080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec0c0 is 1 46623724464
+address 0x2b6bf64ec0c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec100 is 2 46623724464
+address 0x2b6bf64ec100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec140 is 2 46623724464
+address 0x2b6bf64ec140 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec180 is 3 46623724464
+address 0x2b6bf64ec180 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec1c0 is 3 46623724464
+address 0x2b6bf64ec1c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec200 is 4 46623724464
+address 0x2b6bf64ec200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec240 is 4 46623724464
+address 0x2b6bf64ec240 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec280 is 5 46623724464
+address 0x2b6bf64ec280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec2c0 is 5 46623724464
+address 0x2b6bf64ec2c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec300 is 6 46623724464
+address 0x2b6bf64ec300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec340 is 6 46623724464
+address 0x2b6bf64ec340 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec380 is 7 46623724464
+address 0x2b6bf64ec380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec3c0 is 7 46623724464
+address 0x2b6bf64ec3c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec400 is 0 46623724465
+address 0x2b6bf64ec400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec440 is 0 46623724465
+address 0x2b6bf64ec440 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec480 is 1 46623724465
+address 0x2b6bf64ec480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec4c0 is 1 46623724465
+address 0x2b6bf64ec4c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec500 is 2 46623724465
+address 0x2b6bf64ec500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec540 is 2 46623724465
+address 0x2b6bf64ec540 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec580 is 3 46623724465
+address 0x2b6bf64ec580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec5c0 is 3 46623724465
+address 0x2b6bf64ec5c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec600 is 4 46623724465
+address 0x2b6bf64ec600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec640 is 4 46623724465
+address 0x2b6bf64ec640 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec680 is 5 46623724465
+address 0x2b6bf64ec680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec6c0 is 5 46623724465
+address 0x2b6bf64ec6c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec700 is 6 46623724465
+address 0x2b6bf64ec700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec740 is 6 46623724465
+address 0x2b6bf64ec740 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec780 is 7 46623724465
+address 0x2b6bf64ec780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec7c0 is 7 46623724465
+address 0x2b6bf64ec7c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec800 is 0 46623724466
+address 0x2b6bf64ec800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64ec840 is 0 46623724466
+address 0x2b6bf64ec840 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec880 is 1 46623724466
+address 0x2b6bf64ec880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec8c0 is 1 46623724466
+address 0x2b6bf64ec8c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec900 is 2 46623724466
+address 0x2b6bf64ec900 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec940 is 2 46623724466
+address 0x2b6bf64ec940 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ec980 is 3 46623724466
+address 0x2b6bf64ec980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ec9c0 is 3 46623724466
+address 0x2b6bf64ec9c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eca00 is 4 46623724466
+address 0x2b6bf64eca00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eca40 is 4 46623724466
+address 0x2b6bf64eca40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eca80 is 5 46623724466
+address 0x2b6bf64eca80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ecac0 is 5 46623724466
+address 0x2b6bf64ecac0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ecb00 is 6 46623724466
+address 0x2b6bf64ecb00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ecb40 is 6 46623724466
+address 0x2b6bf64ecb40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ecb80 is 7 46623724466
+address 0x2b6bf64ecb80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ecbc0 is 7 46623724466
+address 0x2b6bf64ecbc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ecc00 is 0 46623724467
+address 0x2b6bf64ecc00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ecc40 is 0 46623724467
+address 0x2b6bf64ecc40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ecc80 is 1 46623724467
+address 0x2b6bf64ecc80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eccc0 is 1 46623724467
+address 0x2b6bf64eccc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ecd00 is 2 46623724467
+address 0x2b6bf64ecd00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ecd40 is 2 46623724467
+address 0x2b6bf64ecd40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ecd80 is 3 46623724467
+address 0x2b6bf64ecd80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ecdc0 is 3 46623724467
+address 0x2b6bf64ecdc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ece00 is 4 46623724467
+address 0x2b6bf64ece00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ece40 is 4 46623724467
+address 0x2b6bf64ece40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ece80 is 5 46623724467
+address 0x2b6bf64ece80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ecec0 is 5 46623724467
+address 0x2b6bf64ecec0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ecf00 is 6 46623724467
+address 0x2b6bf64ecf00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ecf40 is 6 46623724467
+address 0x2b6bf64ecf40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ecf80 is 7 46623724467
+address 0x2b6bf64ecf80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ecfc0 is 7 46623724467
+address 0x2b6bf64ecfc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed000 is 0 46623724468
+address 0x2b6bf64ed000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64ed040 is 0 46623724468
+address 0x2b6bf64ed040 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed080 is 1 46623724468
+address 0x2b6bf64ed080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed0c0 is 1 46623724468
+address 0x2b6bf64ed0c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed100 is 2 46623724468
+address 0x2b6bf64ed100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed140 is 2 46623724468
+address 0x2b6bf64ed140 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed180 is 3 46623724468
+address 0x2b6bf64ed180 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed1c0 is 3 46623724468
+address 0x2b6bf64ed1c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed200 is 4 46623724468
+address 0x2b6bf64ed200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed240 is 4 46623724468
+address 0x2b6bf64ed240 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed280 is 5 46623724468
+address 0x2b6bf64ed280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed2c0 is 5 46623724468
+address 0x2b6bf64ed2c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed300 is 6 46623724468
+address 0x2b6bf64ed300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed340 is 6 46623724468
+address 0x2b6bf64ed340 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed380 is 7 46623724468
+address 0x2b6bf64ed380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed3c0 is 7 46623724468
+address 0x2b6bf64ed3c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed400 is 0 46623724469
+address 0x2b6bf64ed400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed440 is 0 46623724469
+address 0x2b6bf64ed440 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed480 is 1 46623724469
+address 0x2b6bf64ed480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed4c0 is 1 46623724469
+address 0x2b6bf64ed4c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed500 is 2 46623724469
+address 0x2b6bf64ed500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed540 is 2 46623724469
+address 0x2b6bf64ed540 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed580 is 3 46623724469
+address 0x2b6bf64ed580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed5c0 is 3 46623724469
+address 0x2b6bf64ed5c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed600 is 4 46623724469
+address 0x2b6bf64ed600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed640 is 4 46623724469
+address 0x2b6bf64ed640 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed680 is 5 46623724469
+address 0x2b6bf64ed680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed6c0 is 5 46623724469
+address 0x2b6bf64ed6c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed700 is 6 46623724469
+address 0x2b6bf64ed700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed740 is 6 46623724469
+address 0x2b6bf64ed740 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed780 is 7 46623724469
+address 0x2b6bf64ed780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed7c0 is 7 46623724469
+address 0x2b6bf64ed7c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed800 is 0 46623724470
+address 0x2b6bf64ed800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64ed840 is 0 46623724470
+address 0x2b6bf64ed840 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed880 is 1 46623724470
+address 0x2b6bf64ed880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed8c0 is 1 46623724470
+address 0x2b6bf64ed8c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed900 is 2 46623724470
+address 0x2b6bf64ed900 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed940 is 2 46623724470
+address 0x2b6bf64ed940 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ed980 is 3 46623724470
+address 0x2b6bf64ed980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ed9c0 is 3 46623724470
+address 0x2b6bf64ed9c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eda00 is 4 46623724470
+address 0x2b6bf64eda00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eda40 is 4 46623724470
+address 0x2b6bf64eda40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eda80 is 5 46623724470
+address 0x2b6bf64eda80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64edac0 is 5 46623724470
+address 0x2b6bf64edac0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64edb00 is 6 46623724470
+address 0x2b6bf64edb00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64edb40 is 6 46623724470
+address 0x2b6bf64edb40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64edb80 is 7 46623724470
+address 0x2b6bf64edb80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64edbc0 is 7 46623724470
+address 0x2b6bf64edbc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64edc00 is 0 46623724471
+address 0x2b6bf64edc00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64edc40 is 0 46623724471
+address 0x2b6bf64edc40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64edc80 is 1 46623724471
+address 0x2b6bf64edc80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64edcc0 is 1 46623724471
+address 0x2b6bf64edcc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64edd00 is 2 46623724471
+address 0x2b6bf64edd00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64edd40 is 2 46623724471
+address 0x2b6bf64edd40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64edd80 is 3 46623724471
+address 0x2b6bf64edd80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eddc0 is 3 46623724471
+address 0x2b6bf64eddc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ede00 is 4 46623724471
+address 0x2b6bf64ede00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ede40 is 4 46623724471
+address 0x2b6bf64ede40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ede80 is 5 46623724471
+address 0x2b6bf64ede80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64edec0 is 5 46623724471
+address 0x2b6bf64edec0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64edf00 is 6 46623724471
+address 0x2b6bf64edf00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64edf40 is 6 46623724471
+address 0x2b6bf64edf40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64edf80 is 7 46623724471
+address 0x2b6bf64edf80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64edfc0 is 7 46623724471
+address 0x2b6bf64edfc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee000 is 0 46623724472
+address 0x2b6bf64ee000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64ee040 is 0 46623724472
+address 0x2b6bf64ee040 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee080 is 1 46623724472
+address 0x2b6bf64ee080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee0c0 is 1 46623724472
+address 0x2b6bf64ee0c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee100 is 2 46623724472
+address 0x2b6bf64ee100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee140 is 2 46623724472
+address 0x2b6bf64ee140 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee180 is 3 46623724472
+address 0x2b6bf64ee180 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee1c0 is 3 46623724472
+address 0x2b6bf64ee1c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee200 is 4 46623724472
+address 0x2b6bf64ee200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee240 is 4 46623724472
+address 0x2b6bf64ee240 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee280 is 5 46623724472
+address 0x2b6bf64ee280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee2c0 is 5 46623724472
+address 0x2b6bf64ee2c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee300 is 6 46623724472
+address 0x2b6bf64ee300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee340 is 6 46623724472
+address 0x2b6bf64ee340 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee380 is 7 46623724472
+address 0x2b6bf64ee380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee3c0 is 7 46623724472
+address 0x2b6bf64ee3c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee400 is 0 46623724473
+address 0x2b6bf64ee400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee440 is 0 46623724473
+address 0x2b6bf64ee440 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee480 is 1 46623724473
+address 0x2b6bf64ee480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee4c0 is 1 46623724473
+address 0x2b6bf64ee4c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee500 is 2 46623724473
+address 0x2b6bf64ee500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee540 is 2 46623724473
+address 0x2b6bf64ee540 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee580 is 3 46623724473
+address 0x2b6bf64ee580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee5c0 is 3 46623724473
+address 0x2b6bf64ee5c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee600 is 4 46623724473
+address 0x2b6bf64ee600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee640 is 4 46623724473
+address 0x2b6bf64ee640 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee680 is 5 46623724473
+address 0x2b6bf64ee680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee6c0 is 5 46623724473
+address 0x2b6bf64ee6c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee700 is 6 46623724473
+address 0x2b6bf64ee700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee740 is 6 46623724473
+address 0x2b6bf64ee740 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee780 is 7 46623724473
+address 0x2b6bf64ee780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee7c0 is 7 46623724473
+address 0x2b6bf64ee7c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee800 is 0 46623724474
+address 0x2b6bf64ee800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64ee840 is 0 46623724474
+address 0x2b6bf64ee840 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee880 is 1 46623724474
+address 0x2b6bf64ee880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee8c0 is 1 46623724474
+address 0x2b6bf64ee8c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee900 is 2 46623724474
+address 0x2b6bf64ee900 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee940 is 2 46623724474
+address 0x2b6bf64ee940 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ee980 is 3 46623724474
+address 0x2b6bf64ee980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ee9c0 is 3 46623724474
+address 0x2b6bf64ee9c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eea00 is 4 46623724474
+address 0x2b6bf64eea00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eea40 is 4 46623724474
+address 0x2b6bf64eea40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eea80 is 5 46623724474
+address 0x2b6bf64eea80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eeac0 is 5 46623724474
+address 0x2b6bf64eeac0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eeb00 is 6 46623724474
+address 0x2b6bf64eeb00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eeb40 is 6 46623724474
+address 0x2b6bf64eeb40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eeb80 is 7 46623724474
+address 0x2b6bf64eeb80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eebc0 is 7 46623724474
+address 0x2b6bf64eebc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eec00 is 0 46623724475
+address 0x2b6bf64eec00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eec40 is 0 46623724475
+address 0x2b6bf64eec40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eec80 is 1 46623724475
+address 0x2b6bf64eec80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eecc0 is 1 46623724475
+address 0x2b6bf64eecc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eed00 is 2 46623724475
+address 0x2b6bf64eed00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eed40 is 2 46623724475
+address 0x2b6bf64eed40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eed80 is 3 46623724475
+address 0x2b6bf64eed80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eedc0 is 3 46623724475
+address 0x2b6bf64eedc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eee00 is 4 46623724475
+address 0x2b6bf64eee00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eee40 is 4 46623724475
+address 0x2b6bf64eee40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eee80 is 5 46623724475
+address 0x2b6bf64eee80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eeec0 is 5 46623724475
+address 0x2b6bf64eeec0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eef00 is 6 46623724475
+address 0x2b6bf64eef00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eef40 is 6 46623724475
+address 0x2b6bf64eef40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eef80 is 7 46623724475
+address 0x2b6bf64eef80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eefc0 is 7 46623724475
+address 0x2b6bf64eefc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef000 is 0 46623724476
+address 0x2b6bf64ef000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64ef040 is 0 46623724476
+address 0x2b6bf64ef040 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef080 is 1 46623724476
+address 0x2b6bf64ef080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef0c0 is 1 46623724476
+address 0x2b6bf64ef0c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef100 is 2 46623724476
+address 0x2b6bf64ef100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef140 is 2 46623724476
+address 0x2b6bf64ef140 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef180 is 3 46623724476
+address 0x2b6bf64ef180 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef1c0 is 3 46623724476
+address 0x2b6bf64ef1c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef200 is 4 46623724476
+address 0x2b6bf64ef200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef240 is 4 46623724476
+address 0x2b6bf64ef240 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef280 is 5 46623724476
+address 0x2b6bf64ef280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef2c0 is 5 46623724476
+address 0x2b6bf64ef2c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef300 is 6 46623724476
+address 0x2b6bf64ef300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef340 is 6 46623724476
+address 0x2b6bf64ef340 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef380 is 7 46623724476
+address 0x2b6bf64ef380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef3c0 is 7 46623724476
+address 0x2b6bf64ef3c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef400 is 0 46623724477
+address 0x2b6bf64ef400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef440 is 0 46623724477
+address 0x2b6bf64ef440 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef480 is 1 46623724477
+address 0x2b6bf64ef480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef4c0 is 1 46623724477
+address 0x2b6bf64ef4c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef500 is 2 46623724477
+address 0x2b6bf64ef500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef540 is 2 46623724477
+address 0x2b6bf64ef540 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef580 is 3 46623724477
+address 0x2b6bf64ef580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef5c0 is 3 46623724477
+address 0x2b6bf64ef5c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef600 is 4 46623724477
+address 0x2b6bf64ef600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef640 is 4 46623724477
+address 0x2b6bf64ef640 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef680 is 5 46623724477
+address 0x2b6bf64ef680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef6c0 is 5 46623724477
+address 0x2b6bf64ef6c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef700 is 6 46623724477
+address 0x2b6bf64ef700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef740 is 6 46623724477
+address 0x2b6bf64ef740 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef780 is 7 46623724477
+address 0x2b6bf64ef780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef7c0 is 7 46623724477
+address 0x2b6bf64ef7c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef800 is 0 46623724478
+address 0x2b6bf64ef800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64ef840 is 0 46623724478
+address 0x2b6bf64ef840 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef880 is 1 46623724478
+address 0x2b6bf64ef880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef8c0 is 1 46623724478
+address 0x2b6bf64ef8c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef900 is 2 46623724478
+address 0x2b6bf64ef900 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef940 is 2 46623724478
+address 0x2b6bf64ef940 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64ef980 is 3 46623724478
+address 0x2b6bf64ef980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64ef9c0 is 3 46623724478
+address 0x2b6bf64ef9c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64efa00 is 4 46623724478
+address 0x2b6bf64efa00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64efa40 is 4 46623724478
+address 0x2b6bf64efa40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64efa80 is 5 46623724478
+address 0x2b6bf64efa80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64efac0 is 5 46623724478
+address 0x2b6bf64efac0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64efb00 is 6 46623724478
+address 0x2b6bf64efb00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64efb40 is 6 46623724478
+address 0x2b6bf64efb40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64efb80 is 7 46623724478
+address 0x2b6bf64efb80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64efbc0 is 7 46623724478
+address 0x2b6bf64efbc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64efc00 is 0 46623724479
+address 0x2b6bf64efc00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64efc40 is 0 46623724479
+address 0x2b6bf64efc40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64efc80 is 1 46623724479
+address 0x2b6bf64efc80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64efcc0 is 1 46623724479
+address 0x2b6bf64efcc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64efd00 is 2 46623724479
+address 0x2b6bf64efd00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64efd40 is 2 46623724479
+address 0x2b6bf64efd40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64efd80 is 3 46623724479
+address 0x2b6bf64efd80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64efdc0 is 3 46623724479
+address 0x2b6bf64efdc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64efe00 is 4 46623724479
+address 0x2b6bf64efe00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64efe40 is 4 46623724479
+address 0x2b6bf64efe40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64efe80 is 5 46623724479
+address 0x2b6bf64efe80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64efec0 is 5 46623724479
+address 0x2b6bf64efec0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eff00 is 6 46623724479
+address 0x2b6bf64eff00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64eff40 is 6 46623724479
+address 0x2b6bf64eff40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64eff80 is 7 46623724479
+address 0x2b6bf64eff80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64effc0 is 7 46623724479
+address 0x2b6bf64effc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0000 is 0 46623724480
+address 0x2b6bf64f0000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64f0040 is 0 46623724480
+address 0x2b6bf64f0040 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0080 is 1 46623724480
+address 0x2b6bf64f0080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f00c0 is 1 46623724480
+address 0x2b6bf64f00c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0100 is 2 46623724480
+address 0x2b6bf64f0100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f0140 is 2 46623724480
+address 0x2b6bf64f0140 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0180 is 3 46623724480
+address 0x2b6bf64f0180 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f01c0 is 3 46623724480
+address 0x2b6bf64f01c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0200 is 4 46623724480
+address 0x2b6bf64f0200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f0240 is 4 46623724480
+address 0x2b6bf64f0240 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0280 is 5 46623724480
+address 0x2b6bf64f0280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f02c0 is 5 46623724480
+address 0x2b6bf64f02c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0300 is 6 46623724480
+address 0x2b6bf64f0300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f0340 is 6 46623724480
+address 0x2b6bf64f0340 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0380 is 7 46623724480
+address 0x2b6bf64f0380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f03c0 is 7 46623724480
+address 0x2b6bf64f03c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0400 is 0 46623724481
+address 0x2b6bf64f0400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f0440 is 0 46623724481
+address 0x2b6bf64f0440 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0480 is 1 46623724481
+address 0x2b6bf64f0480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f04c0 is 1 46623724481
+address 0x2b6bf64f04c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0500 is 2 46623724481
+address 0x2b6bf64f0500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f0540 is 2 46623724481
+address 0x2b6bf64f0540 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0580 is 3 46623724481
+address 0x2b6bf64f0580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f05c0 is 3 46623724481
+address 0x2b6bf64f05c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0600 is 4 46623724481
+address 0x2b6bf64f0600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f0640 is 4 46623724481
+address 0x2b6bf64f0640 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0680 is 5 46623724481
+address 0x2b6bf64f0680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f06c0 is 5 46623724481
+address 0x2b6bf64f06c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0700 is 6 46623724481
+address 0x2b6bf64f0700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f0740 is 6 46623724481
+address 0x2b6bf64f0740 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0780 is 7 46623724481
+address 0x2b6bf64f0780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f07c0 is 7 46623724481
+address 0x2b6bf64f07c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0800 is 0 46623724482
+address 0x2b6bf64f0800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2b6bf64f0840 is 0 46623724482
+address 0x2b6bf64f0840 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0880 is 1 46623724482
+address 0x2b6bf64f0880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f08c0 is 1 46623724482
+address 0x2b6bf64f08c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0900 is 2 46623724482
+address 0x2b6bf64f0900 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f0940 is 2 46623724482
+address 0x2b6bf64f0940 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0980 is 3 46623724482
+address 0x2b6bf64f0980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f09c0 is 3 46623724482
+address 0x2b6bf64f09c0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0a00 is 4 46623724482
+address 0x2b6bf64f0a00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f0a40 is 4 46623724482
+address 0x2b6bf64f0a40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0a80 is 5 46623724482
+address 0x2b6bf64f0a80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f0ac0 is 5 46623724482
+address 0x2b6bf64f0ac0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0b00 is 6 46623724482
+address 0x2b6bf64f0b00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f0b40 is 6 46623724482
+address 0x2b6bf64f0b40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0b80 is 7 46623724482
+address 0x2b6bf64f0b80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f0bc0 is 7 46623724482
+address 0x2b6bf64f0bc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0c00 is 0 46623724483
+address 0x2b6bf64f0c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f0c40 is 0 46623724483
+address 0x2b6bf64f0c40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0c80 is 1 46623724483
+address 0x2b6bf64f0c80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f0cc0 is 1 46623724483
+address 0x2b6bf64f0cc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0d00 is 2 46623724483
+address 0x2b6bf64f0d00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f0d40 is 2 46623724483
+address 0x2b6bf64f0d40 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0d80 is 3 46623724483
+address 0x2b6bf64f0d80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f0dc0 is 3 46623724483
+address 0x2b6bf64f0dc0 CACHE HIT. Good Job.
+set and tag of 0x2b6bf64f0e00 is 4 46623724483
+address 0x2b6bf64f0e00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x2b6bf64f0e40 is 4 46623724483
+address 0x2b6bf64f0e40 CACHE HIT. Good Job.
+total cache accesses 1000
+total cache misses 500
+total cache hits 500
+miss_rate 0.5
+hit_rate 0.5
+Row Buffer Hit Rate 0.936
+Average Miss Penalty 106.4
+AMAT 58.2
+CPI_stall 55
+Finished processing the specified part of the program trace, progress = 100.0 %
+Percentage of the entire program trace executed = 0.01852110804380983 % 
+
+=====================================

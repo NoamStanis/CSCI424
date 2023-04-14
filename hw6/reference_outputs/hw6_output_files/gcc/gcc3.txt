@@ -1,0 +1,2016 @@
+python sim_424.py 403.gcc.gz 16384 32 64 1000 
+
+Processing your program trace, progress so far = 0 %
+set and tag of 0x92c540 is 5 18786
+address 0x92c540 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5561780 is 6 174859
+address 0x5561780 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5577840 is 1 175036
+address 0x5577840 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5577a40 is 1 175037
+address 0x5577a40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x7fff5c980640 is 1 274872552451
+address 0x7fff5c980640 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x64f500 is 4 12922
+address 0x64f500 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5577880 is 2 175036
+address 0x5577880 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x9b5a40 is 1 19885
+address 0x9b5a40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5577a00 is 0 175037
+address 0x5577a00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5577bc0 is 7 175037
+address 0x5577bc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5577b80 is 6 175037
+address 0x5577b80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5577b40 is 5 175037
+address 0x5577b40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5577e00 is 0 175039
+address 0x5577e00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5577e40 is 1 175039
+address 0x5577e40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5577dc0 is 7 175038
+address 0x5577dc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5577f80 is 6 175039
+address 0x5577f80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5577fc0 is 7 175039
+address 0x5577fc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5577f40 is 5 175039
+address 0x5577f40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55780c0 is 3 175040
+address 0x55780c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5578100 is 4 175040
+address 0x5578100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5578280 is 2 175041
+address 0x5578280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5578240 is 1 175041
+address 0x5578240 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55782c0 is 3 175041
+address 0x55782c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5578480 is 2 175042
+address 0x5578480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55785c0 is 7 175042
+address 0x55785c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5578600 is 0 175043
+address 0x5578600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5578700 is 4 175043
+address 0x5578700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5578740 is 5 175043
+address 0x5578740 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55788c0 is 3 175044
+address 0x55788c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5578880 is 2 175044
+address 0x5578880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5578840 is 1 175044
+address 0x5578840 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5578ac0 is 3 175045
+address 0x5578ac0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5578a80 is 2 175045
+address 0x5578a80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5578bc0 is 7 175045
+address 0x5578bc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5578d40 is 5 175046
+address 0x5578d40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5578d80 is 6 175046
+address 0x5578d80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5578e80 is 2 175047
+address 0x5578e80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5578ec0 is 3 175047
+address 0x5578ec0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55790c0 is 3 175048
+address 0x55790c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5579080 is 2 175048
+address 0x5579080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5579200 is 0 175049
+address 0x5579200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55791c0 is 7 175048
+address 0x55791c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5579340 is 5 175049
+address 0x5579340 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5579300 is 4 175049
+address 0x5579300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55794c0 is 3 175050
+address 0x55794c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5579600 is 0 175051
+address 0x5579600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5579500 is 4 175050
+address 0x5579500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5579740 is 5 175051
+address 0x5579740 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5579700 is 4 175051
+address 0x5579700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5579880 is 2 175052
+address 0x5579880 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5579840 is 1 175052
+address 0x5579840 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5579ac0 is 3 175053
+address 0x5579ac0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5579a80 is 2 175053
+address 0x5579a80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5579c40 is 1 175054
+address 0x5579c40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5579c00 is 0 175054
+address 0x5579c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5579bc0 is 7 175053
+address 0x5579bc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557ad80 is 6 175062
+address 0x557ad80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557ad40 is 5 175062
+address 0x557ad40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557aec0 is 3 175063
+address 0x557aec0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557af00 is 4 175063
+address 0x557af00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557b000 is 0 175064
+address 0x557b000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557afc0 is 7 175063
+address 0x557afc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557b140 is 5 175064
+address 0x557b140 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557b280 is 2 175065
+address 0x557b280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557b240 is 1 175065
+address 0x557b240 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557b3c0 is 7 175065
+address 0x557b3c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557b380 is 6 175065
+address 0x557b380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557b540 is 5 175066
+address 0x557b540 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557b680 is 2 175067
+address 0x557b680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557b640 is 1 175067
+address 0x557b640 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557b780 is 6 175067
+address 0x557b780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557b740 is 5 175067
+address 0x557b740 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5572140 is 5 174992
+address 0x5572140 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557b840 is 1 175068
+address 0x557b840 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557b800 is 0 175068
+address 0x557b800 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557b980 is 6 175068
+address 0x557b980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557b940 is 5 175068
+address 0x557b940 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557bac0 is 3 175069
+address 0x557bac0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557ba80 is 2 175069
+address 0x557ba80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557bd00 is 4 175070
+address 0x557bd00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557bcc0 is 3 175070
+address 0x557bcc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557be40 is 1 175071
+address 0x557be40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557be00 is 0 175071
+address 0x557be00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557bf80 is 6 175071
+address 0x557bf80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557bf40 is 5 175071
+address 0x557bf40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557c080 is 2 175072
+address 0x557c080 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557c200 is 0 175073
+address 0x557c200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557c0c0 is 3 175072
+address 0x557c0c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557c2c0 is 3 175073
+address 0x557c2c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557c280 is 2 175073
+address 0x557c280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557c400 is 0 175074
+address 0x557c400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557c3c0 is 7 175073
+address 0x557c3c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557c540 is 5 175074
+address 0x557c540 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557c500 is 4 175074
+address 0x557c500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557c740 is 5 175075
+address 0x557c740 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557c780 is 6 175075
+address 0x557c780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557c700 is 4 175075
+address 0x557c700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557c880 is 2 175076
+address 0x557c880 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557c840 is 1 175076
+address 0x557c840 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557ca00 is 0 175077
+address 0x557ca00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557cb40 is 5 175077
+address 0x557cb40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557cb00 is 4 175077
+address 0x557cb00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557cc40 is 1 175078
+address 0x557cc40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557cdc0 is 7 175078
+address 0x557cdc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557cc80 is 2 175078
+address 0x557cc80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557cd80 is 6 175078
+address 0x557cd80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557cf40 is 5 175079
+address 0x557cf40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557cf00 is 4 175079
+address 0x557cf00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557d000 is 0 175080
+address 0x557d000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557d140 is 5 175080
+address 0x557d140 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557d040 is 1 175080
+address 0x557d040 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557d100 is 4 175080
+address 0x557d100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557d200 is 0 175081
+address 0x557d200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5561980 is 6 174860
+address 0x5561980 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556cb40 is 5 174949
+address 0x556cb40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556cb00 is 4 174949
+address 0x556cb00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5570d80 is 6 174982
+address 0x5570d80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5575880 is 2 175020
+address 0x5575880 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5575840 is 1 175020
+address 0x5575840 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576d00 is 4 175030
+address 0x5576d00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557d3c0 is 7 175081
+address 0x557d3c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557d380 is 6 175081
+address 0x557d380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5562280 is 2 174865
+address 0x5562280 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55628c0 is 3 174868
+address 0x55628c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55645c0 is 7 174882
+address 0x55645c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55649c0 is 7 174884
+address 0x55649c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5564600 is 0 174883
+address 0x5564600 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5565500 is 4 174890
+address 0x5565500 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5565d40 is 5 174894
+address 0x5565d40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5566480 is 2 174898
+address 0x5566480 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5566c40 is 1 174902
+address 0x5566c40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5566c00 is 0 174902
+address 0x5566c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5567540 is 5 174906
+address 0x5567540 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5567640 is 1 174907
+address 0x5567640 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5567580 is 6 174906
+address 0x5567580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5568700 is 4 174915
+address 0x5568700 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55691c0 is 7 174920
+address 0x55691c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5569740 is 5 174923
+address 0x5569740 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556a100 is 4 174928
+address 0x556a100 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556a680 is 2 174931
+address 0x556a680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556a140 is 5 174928
+address 0x556a140 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556a640 is 1 174931
+address 0x556a640 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5560d80 is 6 174854
+address 0x5560d80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556c640 is 1 174947
+address 0x556c640 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5560dc0 is 7 174854
+address 0x5560dc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556d100 is 4 174952
+address 0x556d100 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556d0c0 is 3 174952
+address 0x556d0c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556da40 is 1 174957
+address 0x556da40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556da00 is 0 174957
+address 0x556da00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556e200 is 0 174961
+address 0x556e200 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556e780 is 6 174963
+address 0x556e780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556f6c0 is 3 174971
+address 0x556f6c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556e7c0 is 7 174963
+address 0x556e7c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556f880 is 2 174972
+address 0x556f880 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5570200 is 0 174977
+address 0x5570200 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556f8c0 is 3 174972
+address 0x556f8c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5570d40 is 5 174982
+address 0x5570d40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5571fc0 is 7 174991
+address 0x5571fc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5572280 is 2 174993
+address 0x5572280 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5572000 is 0 174992
+address 0x5572000 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5573f80 is 6 175007
+address 0x5573f80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5573f40 is 5 175007
+address 0x5573f40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5574a40 is 1 175013
+address 0x5574a40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5574e80 is 2 175015
+address 0x5574e80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5574a80 is 2 175013
+address 0x5574a80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5574e40 is 1 175015
+address 0x5574e40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575600 is 0 175019
+address 0x5575600 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55755c0 is 7 175018
+address 0x55755c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575dc0 is 7 175022
+address 0x5575dc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5576400 is 0 175026
+address 0x5576400 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5575e00 is 0 175023
+address 0x5575e00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557d5c0 is 7 175082
+address 0x557d5c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5577380 is 6 175033
+address 0x5577380 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557d480 is 2 175082
+address 0x557d480 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55773c0 is 7 175033
+address 0x55773c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557d580 is 6 175082
+address 0x557d580 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557d4c0 is 3 175082
+address 0x557d4c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557d2c0 is 3 175081
+address 0x557d2c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557d240 is 1 175081
+address 0x557d240 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557d400 is 0 175082
+address 0x557d400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557c1c0 is 7 175072
+address 0x557c1c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557c9c0 is 7 175076
+address 0x557c9c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557cc00 is 0 175078
+address 0x557cc00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x7fff5c980680 is 2 274872552451
+address 0x7fff5c980680 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x7fff5c980700 is 4 274872552451
+address 0x7fff5c980700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5561100 is 4 174856
+address 0x5561100 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55610c0 is 3 174856
+address 0x55610c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5561500 is 4 174858
+address 0x5561500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x7fff5c980740 is 5 274872552451
+address 0x7fff5c980740 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5561740 is 5 174859
+address 0x5561740 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x7fff5c9806c0 is 3 274872552451
+address 0x7fff5c9806c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x367a000 is 0 111568
+address 0x367a000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679780 is 6 111563
+address 0x3679780 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x9b5e00 is 0 19887
+address 0x9b5e00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x42c69c0 is 7 136756
+address 0x42c69c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x4388740 is 5 138307
+address 0x4388740 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x4fe0040 is 1 163584
+address 0x4fe0040 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x51d30c0 is 3 167576
+address 0x51d30c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x51d3080 is 2 167576
+address 0x51d3080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x51d3040 is 1 167576
+address 0x51d3040 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x7fff5c9838c0 is 3 274872552476
+address 0x7fff5c9838c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5562240 is 1 174865
+address 0x5562240 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5562480 is 2 174866
+address 0x5562480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5562440 is 1 174866
+address 0x5562440 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5562680 is 2 174867
+address 0x5562680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5561300 is 4 174857
+address 0x5561300 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5561340 is 5 174857
+address 0x5561340 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5562a40 is 1 174869
+address 0x5562a40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55626c0 is 3 174867
+address 0x55626c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55641c0 is 7 174880
+address 0x55641c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5562a80 is 2 174869
+address 0x5562a80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5561a00 is 0 174861
+address 0x5561a00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55619c0 is 7 174860
+address 0x55619c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55673c0 is 7 174905
+address 0x55673c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5567380 is 6 174905
+address 0x5567380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5561c40 is 1 174862
+address 0x5561c40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5561c00 is 0 174862
+address 0x5561c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5569b00 is 4 174925
+address 0x5569b00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556a800 is 0 174932
+address 0x556a800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556be40 is 1 174943
+address 0x556be40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556d2c0 is 3 174953
+address 0x556d2c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556be80 is 2 174943
+address 0x556be80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556d6c0 is 3 174955
+address 0x556d6c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556e3c0 is 7 174961
+address 0x556e3c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556d700 is 4 174955
+address 0x556d700 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556e380 is 6 174961
+address 0x556e380 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556ea00 is 0 174965
+address 0x556ea00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556e9c0 is 7 174964
+address 0x556e9c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556ef80 is 6 174967
+address 0x556ef80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556ef40 is 5 174967
+address 0x556ef40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556fac0 is 3 174973
+address 0x556fac0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556fa80 is 2 174973
+address 0x556fa80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5570780 is 6 174979
+address 0x5570780 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5571140 is 5 174984
+address 0x5571140 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55707c0 is 7 174979
+address 0x55707c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5571100 is 4 174984
+address 0x5571100 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5572640 is 1 174995
+address 0x5572640 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5573d80 is 6 175006
+address 0x5573d80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55746c0 is 3 175011
+address 0x55746c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5575400 is 0 175018
+address 0x5575400 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55763c0 is 7 175025
+address 0x55763c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55766c0 is 3 175027
+address 0x55766c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55770c0 is 3 175032
+address 0x55770c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5577740 is 5 175035
+address 0x5577740 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5577780 is 6 175035
+address 0x5577780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5578140 is 5 175040
+address 0x5578140 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5578c00 is 0 175046
+address 0x5578c00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55784c0 is 3 175042
+address 0x55784c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55795c0 is 7 175050
+address 0x55795c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557b100 is 4 175064
+address 0x557b100 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557b500 is 4 175066
+address 0x557b500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557b8c0 is 3 175068
+address 0x557b8c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557b880 is 2 175068
+address 0x557b880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x557ce00 is 0 175079
+address 0x557ce00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x557c8c0 is 3 175076
+address 0x557c8c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5561e40 is 1 174863
+address 0x5561e40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5562040 is 1 174864
+address 0x5562040 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5561e80 is 2 174863
+address 0x5561e80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5562080 is 2 174864
+address 0x5562080 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55624c0 is 3 174866
+address 0x55624c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5562700 is 4 174867
+address 0x5562700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5562880 is 2 174868
+address 0x5562880 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5562c00 is 0 174870
+address 0x5562c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5562e00 is 0 174871
+address 0x5562e00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5562c40 is 1 174870
+address 0x5562c40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5563e40 is 1 174879
+address 0x5563e40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5564000 is 0 174880
+address 0x5564000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5563fc0 is 7 174879
+address 0x5563fc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55643c0 is 7 174881
+address 0x55643c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5564380 is 6 174881
+address 0x5564380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5564400 is 0 174882
+address 0x5564400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5564580 is 6 174882
+address 0x5564580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5564800 is 0 174884
+address 0x5564800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55647c0 is 7 174883
+address 0x55647c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5564780 is 6 174883
+address 0x5564780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5564a00 is 0 174885
+address 0x5564a00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5564bc0 is 7 174885
+address 0x5564bc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5564a40 is 1 174885
+address 0x5564a40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5564c00 is 0 174886
+address 0x5564c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5564dc0 is 7 174886
+address 0x5564dc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5564d80 is 6 174886
+address 0x5564d80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5564f80 is 6 174887
+address 0x5564f80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5565140 is 5 174888
+address 0x5565140 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5565180 is 6 174888
+address 0x5565180 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5565340 is 5 174889
+address 0x5565340 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5565300 is 4 174889
+address 0x5565300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5565700 is 4 174891
+address 0x5565700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55656c0 is 3 174891
+address 0x55656c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5565900 is 4 174892
+address 0x5565900 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55658c0 is 3 174892
+address 0x55658c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5565b40 is 5 174893
+address 0x5565b40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5565940 is 5 174892
+address 0x5565940 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5565b00 is 4 174893
+address 0x5565b00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5565ac0 is 3 174893
+address 0x5565ac0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5565d00 is 4 174894
+address 0x5565d00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5565f40 is 5 174895
+address 0x5565f40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5565f00 is 4 174895
+address 0x5565f00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5566100 is 4 174896
+address 0x5566100 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5565f80 is 6 174895
+address 0x5565f80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55662c0 is 3 174897
+address 0x55662c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55664c0 is 3 174898
+address 0x55664c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5566640 is 1 174899
+address 0x5566640 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5566800 is 0 174900
+address 0x5566800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55667c0 is 7 174899
+address 0x55667c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55669c0 is 7 174900
+address 0x55669c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5566980 is 6 174900
+address 0x5566980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5566a00 is 0 174901
+address 0x5566a00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5566a40 is 1 174901
+address 0x5566a40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5566bc0 is 7 174901
+address 0x5566bc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5566e40 is 1 174903
+address 0x5566e40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5566e00 is 0 174903
+address 0x5566e00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5566e80 is 2 174903
+address 0x5566e80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5566dc0 is 7 174902
+address 0x5566dc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5567000 is 0 174904
+address 0x5567000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5566fc0 is 7 174903
+address 0x5566fc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55671c0 is 7 174904
+address 0x55671c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5567200 is 0 174905
+address 0x5567200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5567780 is 6 174907
+address 0x5567780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5567740 is 5 174907
+address 0x5567740 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5567900 is 4 174908
+address 0x5567900 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5567b40 is 5 174909
+address 0x5567b40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5567940 is 5 174908
+address 0x5567940 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5567b00 is 4 174909
+address 0x5567b00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5567cc0 is 3 174910
+address 0x5567cc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5567ec0 is 3 174911
+address 0x5567ec0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5567d00 is 4 174910
+address 0x5567d00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5568080 is 2 174912
+address 0x5568080 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55680c0 is 3 174912
+address 0x55680c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5568280 is 2 174913
+address 0x5568280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5568240 is 1 174913
+address 0x5568240 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5567680 is 2 174907
+address 0x5567680 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5568540 is 5 174914
+address 0x5568540 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5568500 is 4 174914
+address 0x5568500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55684c0 is 3 174914
+address 0x55684c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55686c0 is 3 174915
+address 0x55686c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55688c0 is 3 174916
+address 0x55688c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5568a80 is 2 174917
+address 0x5568a80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5568c40 is 1 174918
+address 0x5568c40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5568c00 is 0 174918
+address 0x5568c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5568e40 is 1 174919
+address 0x5568e40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5568e00 is 0 174919
+address 0x5568e00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5569000 is 0 174920
+address 0x5569000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5568fc0 is 7 174919
+address 0x5568fc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5569180 is 6 174920
+address 0x5569180 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55693c0 is 7 174921
+address 0x55693c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5569380 is 6 174921
+address 0x5569380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5569580 is 6 174922
+address 0x5569580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5569540 is 5 174922
+address 0x5569540 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5569780 is 6 174923
+address 0x5569780 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5569940 is 5 174924
+address 0x5569940 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5569900 is 4 174924
+address 0x5569900 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5569ac0 is 3 174925
+address 0x5569ac0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5569d00 is 4 174926
+address 0x5569d00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5569cc0 is 3 174926
+address 0x5569cc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5569f00 is 4 174927
+address 0x5569f00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5569f40 is 5 174927
+address 0x5569f40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5569ec0 is 3 174927
+address 0x5569ec0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556a0c0 is 3 174928
+address 0x556a0c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556a300 is 4 174929
+address 0x556a300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556a2c0 is 3 174929
+address 0x556a2c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556a4c0 is 3 174930
+address 0x556a4c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556a480 is 2 174930
+address 0x556a480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556a500 is 4 174930
+address 0x556a500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556a6c0 is 3 174931
+address 0x556a6c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556a840 is 1 174932
+address 0x556a840 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556a9c0 is 7 174932
+address 0x556a9c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556ab80 is 6 174933
+address 0x556ab80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556aa00 is 0 174933
+address 0x556aa00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556ab40 is 5 174933
+address 0x556ab40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55683c0 is 7 174913
+address 0x55683c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556abc0 is 7 174933
+address 0x556abc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556be00 is 0 174943
+address 0x556be00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556c000 is 0 174944
+address 0x556c000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556c200 is 0 174945
+address 0x556c200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556c400 is 0 174946
+address 0x556c400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556c240 is 1 174945
+address 0x556c240 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556c440 is 1 174946
+address 0x556c440 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556c680 is 2 174947
+address 0x556c680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556c900 is 4 174948
+address 0x556c900 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556c6c0 is 3 174947
+address 0x556c6c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556c8c0 is 3 174948
+address 0x556c8c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556c880 is 2 174948
+address 0x556c880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556ccc0 is 3 174950
+address 0x556ccc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556cf00 is 4 174951
+address 0x556cf00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556cec0 is 3 174951
+address 0x556cec0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556d300 is 4 174953
+address 0x556d300 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556d140 is 5 174952
+address 0x556d140 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556d340 is 5 174953
+address 0x556d340 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556d280 is 2 174953
+address 0x556d280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556d4c0 is 3 174954
+address 0x556d4c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556d500 is 4 174954
+address 0x556d500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556d480 is 2 174954
+address 0x556d480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556d880 is 2 174956
+address 0x556d880 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556d840 is 1 174956
+address 0x556d840 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556dc00 is 0 174958
+address 0x556dc00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556dc40 is 1 174958
+address 0x556dc40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556de00 is 0 174959
+address 0x556de00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556ddc0 is 7 174958
+address 0x556ddc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556df80 is 6 174959
+address 0x556df80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556e1c0 is 7 174960
+address 0x556e1c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556dfc0 is 7 174959
+address 0x556dfc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556e180 is 6 174960
+address 0x556e180 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556e400 is 0 174962
+address 0x556e400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556e600 is 0 174963
+address 0x556e600 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556e5c0 is 7 174962
+address 0x556e5c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556e580 is 6 174962
+address 0x556e580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556e800 is 0 174964
+address 0x556e800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556eb80 is 6 174965
+address 0x556eb80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556ed40 is 5 174966
+address 0x556ed40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556f100 is 4 174968
+address 0x556f100 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556f2c0 is 3 174969
+address 0x556f2c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556f280 is 2 174969
+address 0x556f280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556f4c0 is 3 174970
+address 0x556f4c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556f680 is 2 174971
+address 0x556f680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556f500 is 4 174970
+address 0x556f500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556f700 is 4 174971
+address 0x556f700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556f900 is 4 174972
+address 0x556f900 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x556fc80 is 2 174974
+address 0x556fc80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556fcc0 is 3 174974
+address 0x556fcc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556fe80 is 2 174975
+address 0x556fe80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x556fe40 is 1 174975
+address 0x556fe40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5570000 is 0 174976
+address 0x5570000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5570240 is 1 174977
+address 0x5570240 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5570040 is 1 174976
+address 0x5570040 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55703c0 is 7 174977
+address 0x55703c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5570580 is 6 174978
+address 0x5570580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5570540 is 5 174978
+address 0x5570540 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5570980 is 6 174980
+address 0x5570980 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5570940 is 5 174980
+address 0x5570940 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55709c0 is 7 174980
+address 0x55709c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5570bc0 is 7 174981
+address 0x5570bc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5570b80 is 6 174981
+address 0x5570b80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5570b40 is 5 174981
+address 0x5570b40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5570f80 is 6 174983
+address 0x5570f80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5570f40 is 5 174983
+address 0x5570f40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55712c0 is 3 174985
+address 0x55712c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5570fc0 is 7 174983
+address 0x5570fc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5571500 is 4 174986
+address 0x5571500 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5571300 is 4 174985
+address 0x5571300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55714c0 is 3 174986
+address 0x55714c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5571680 is 2 174987
+address 0x5571680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55718c0 is 3 174988
+address 0x55718c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55716c0 is 3 174987
+address 0x55716c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5571880 is 2 174988
+address 0x5571880 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5571a40 is 1 174989
+address 0x5571a40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5571c00 is 0 174990
+address 0x5571c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5571a80 is 2 174989
+address 0x5571a80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5571e40 is 1 174991
+address 0x5571e40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5571c40 is 1 174990
+address 0x5571c40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5571e00 is 0 174991
+address 0x5571e00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5571400 is 0 174986
+address 0x5571400 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55713c0 is 7 174985
+address 0x55713c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55722c0 is 3 174993
+address 0x55722c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5572240 is 1 174993
+address 0x5572240 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5572480 is 2 174994
+address 0x5572480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5572440 is 1 174994
+address 0x5572440 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5572800 is 0 174996
+address 0x5572800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55729c0 is 7 174996
+address 0x55729c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5572980 is 6 174996
+address 0x5572980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5572b80 is 6 174997
+address 0x5572b80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5572b40 is 5 174997
+address 0x5572b40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5572bc0 is 7 174997
+address 0x5572bc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5574140 is 5 175008
+address 0x5574140 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5574100 is 4 175008
+address 0x5574100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5574340 is 5 175009
+address 0x5574340 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5574300 is 4 175009
+address 0x5574300 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5574500 is 4 175010
+address 0x5574500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55744c0 is 3 175010
+address 0x55744c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5574880 is 2 175012
+address 0x5574880 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55748c0 is 3 175012
+address 0x55748c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5574c80 is 2 175014
+address 0x5574c80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5574c40 is 1 175014
+address 0x5574c40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5574ec0 is 3 175015
+address 0x5574ec0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575080 is 2 175016
+address 0x5575080 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55750c0 is 3 175016
+address 0x55750c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575040 is 1 175016
+address 0x5575040 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575280 is 2 175017
+address 0x5575280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575240 is 1 175017
+address 0x5575240 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575200 is 0 175017
+address 0x5575200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575440 is 1 175018
+address 0x5575440 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575480 is 2 175018
+address 0x5575480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575580 is 6 175018
+address 0x5575580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575740 is 5 175019
+address 0x5575740 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575700 is 4 175019
+address 0x5575700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575a40 is 1 175021
+address 0x5575a40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5575a00 is 0 175021
+address 0x5575a00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575bc0 is 7 175021
+address 0x5575bc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575b80 is 6 175021
+address 0x5575b80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575c00 is 0 175022
+address 0x5575c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575d80 is 6 175022
+address 0x5575d80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5575f00 is 4 175023
+address 0x5575f00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576100 is 4 175024
+address 0x5576100 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5575f40 is 5 175023
+address 0x5575f40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x55760c0 is 3 175024
+address 0x55760c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5576080 is 2 175024
+address 0x5576080 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576280 is 2 175025
+address 0x5576280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576240 is 1 175025
+address 0x5576240 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576540 is 5 175026
+address 0x5576540 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576440 is 1 175026
+address 0x5576440 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576580 is 6 175026
+address 0x5576580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576700 is 4 175027
+address 0x5576700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576680 is 2 175027
+address 0x5576680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576840 is 1 175028
+address 0x5576840 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5576800 is 0 175028
+address 0x5576800 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576a40 is 1 175029
+address 0x5576a40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576a80 is 2 175029
+address 0x5576a80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576b80 is 6 175029
+address 0x5576b80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576bc0 is 7 175029
+address 0x5576bc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576d40 is 5 175030
+address 0x5576d40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576d80 is 6 175030
+address 0x5576d80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576e80 is 2 175031
+address 0x5576e80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576ec0 is 3 175031
+address 0x5576ec0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5576e40 is 1 175031
+address 0x5576e40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5577080 is 2 175032
+address 0x5577080 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5577200 is 0 175033
+address 0x5577200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55771c0 is 7 175032
+address 0x55771c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5577340 is 5 175033
+address 0x5577340 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55774c0 is 3 175034
+address 0x55774c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5577500 is 4 175034
+address 0x5577500 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5577480 is 2 175034
+address 0x5577480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5577700 is 4 175035
+address 0x5577700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x55778c0 is 3 175036
+address 0x55778c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x4388700 is 4 138307
+address 0x4388700 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3661e80 is 2 111375
+address 0x3661e80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x6e54c0 is 3 14122
+address 0x6e54c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679700 is 4 111563
+address 0x3679700 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x9f2000 is 0 20368
+address 0x9f2000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754140 is 5 178848
+address 0x5754140 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x4b9f440 is 1 154874
+address 0x4b9f440 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677f80 is 6 111551
+address 0x3677f80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679680 is 2 111563
+address 0x3679680 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679580 is 6 111562
+address 0x3679580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x3677f40 is 5 111551
+address 0x3677f40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36736c0 is 3 111515
+address 0x36736c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679600 is 0 111563
+address 0x3679600 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x497f640 is 1 150523
+address 0x497f640 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36795c0 is 7 111562
+address 0x36795c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5561700 is 4 174859
+address 0x5561700 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x57541c0 is 7 178848
+address 0x57541c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679540 is 5 111562
+address 0x3679540 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754180 is 6 178848
+address 0x5754180 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679440 is 1 111562
+address 0x3679440 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677ec0 is 3 111551
+address 0x3677ec0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36790c0 is 3 111560
+address 0x36790c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677e40 is 1 111551
+address 0x3677e40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3673680 is 2 111515
+address 0x3673680 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679500 is 4 111562
+address 0x3679500 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754240 is 1 178849
+address 0x5754240 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679480 is 2 111562
+address 0x3679480 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754200 is 0 178849
+address 0x5754200 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36793c0 is 7 111561
+address 0x36793c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677dc0 is 7 111550
+address 0x3677dc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36794c0 is 3 111562
+address 0x36794c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677d40 is 5 111550
+address 0x3677d40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679400 is 0 111562
+address 0x3679400 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754280 is 2 178849
+address 0x5754280 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679300 is 4 111561
+address 0x3679300 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677cc0 is 3 111550
+address 0x3677cc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679380 is 6 111561
+address 0x3679380 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3673640 is 1 111515
+address 0x3673640 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679340 is 5 111561
+address 0x3679340 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x57542c0 is 3 178849
+address 0x57542c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679240 is 1 111561
+address 0x3679240 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677c40 is 1 111550
+address 0x3677c40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36792c0 is 3 111561
+address 0x36792c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679280 is 2 111561
+address 0x3679280 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5754300 is 4 178849
+address 0x5754300 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679180 is 6 111560
+address 0x3679180 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677bc0 is 7 111549
+address 0x3677bc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679200 is 0 111561
+address 0x3679200 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3673600 is 0 111515
+address 0x3673600 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36791c0 is 7 111560
+address 0x36791c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677b40 is 5 111549
+address 0x3677b40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679140 is 5 111560
+address 0x3679140 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679100 is 4 111560
+address 0x3679100 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5754380 is 6 178849
+address 0x5754380 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679000 is 0 111560
+address 0x3679000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754340 is 5 178849
+address 0x5754340 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676bc0 is 7 111541
+address 0x3676bc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677ac0 is 3 111549
+address 0x3677ac0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679080 is 2 111560
+address 0x3679080 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36735c0 is 7 111514
+address 0x36735c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3679040 is 1 111560
+address 0x3679040 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x57543c0 is 7 178849
+address 0x57543c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676fc0 is 7 111543
+address 0x3676fc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677a40 is 1 111549
+address 0x3677a40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5ab49c0 is 7 185764
+address 0x5ab49c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5a14640 is 1 184483
+address 0x5a14640 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5d995c0 is 7 191690
+address 0x5d995c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x42d2800 is 0 136852
+address 0x42d2800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x7fff5c980600 is 0 274872552451
+address 0x7fff5c980600 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x42d2840 is 1 136852
+address 0x42d2840 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e4ca80 is 2 193125
+address 0x5e4ca80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e13800 is 0 192668
+address 0x5e13800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e79f80 is 6 193487
+address 0x5e79f80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5d99600 is 0 191691
+address 0x5d99600 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5eb5100 is 4 193960
+address 0x5eb5100 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5d9acc0 is 3 191702
+address 0x5d9acc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5dd0340 is 5 192129
+address 0x5dd0340 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5a146c0 is 3 184483
+address 0x5a146c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e4f8c0 is 3 193148
+address 0x5e4f8c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e1c900 is 4 192740
+address 0x5e1c900 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e595c0 is 7 193226
+address 0x5e595c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5d99cc0 is 3 191694
+address 0x5d99cc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e63300 is 4 193305
+address 0x5e63300 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e2f440 is 1 192890
+address 0x5e2f440 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e6d000 is 0 193384
+address 0x5e6d000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5eb5140 is 5 193960
+address 0x5eb5140 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e0b300 is 4 192601
+address 0x5e0b300 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5b406c0 is 3 186883
+address 0x5b406c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e66c00 is 0 193334
+address 0x5e66c00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e46c00 is 0 193078
+address 0x5e46c00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e5e9c0 is 7 193268
+address 0x5e5e9c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5dfed00 is 4 192502
+address 0x5dfed00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5b40700 is 4 186883
+address 0x5b40700 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e8af40 is 5 193623
+address 0x5e8af40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e0cdc0 is 7 192614
+address 0x5e0cdc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e67100 is 4 193336
+address 0x5e67100 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5eb5180 is 6 193960
+address 0x5eb5180 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5b57980 is 6 187068
+address 0x5b57980 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e4d240 is 1 193129
+address 0x5e4d240 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e0b2c0 is 3 192601
+address 0x5e0b2c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676f00 is 4 111543
+address 0x3676f00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36779c0 is 7 111548
+address 0x36779c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676f40 is 5 111543
+address 0x3676f40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754400 is 0 178850
+address 0x5754400 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676e40 is 1 111543
+address 0x3676e40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677940 is 5 111548
+address 0x3677940 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676ec0 is 3 111543
+address 0x3676ec0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676e80 is 2 111543
+address 0x3676e80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5754440 is 1 178850
+address 0x5754440 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676d80 is 6 111542
+address 0x3676d80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36778c0 is 3 111548
+address 0x36778c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3673580 is 6 111514
+address 0x3673580 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676e00 is 0 111543
+address 0x3676e00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676dc0 is 7 111542
+address 0x3676dc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5754480 is 2 178850
+address 0x5754480 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676d00 is 4 111542
+address 0x3676d00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677840 is 1 111548
+address 0x3677840 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676d40 is 5 111542
+address 0x3676d40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x57544c0 is 3 178850
+address 0x57544c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676c40 is 1 111542
+address 0x3676c40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36777c0 is 7 111547
+address 0x36777c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3673540 is 5 111514
+address 0x3673540 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676cc0 is 3 111542
+address 0x3676cc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676c80 is 2 111542
+address 0x3676c80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x3677740 is 5 111547
+address 0x3677740 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676c00 is 0 111542
+address 0x3676c00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x25cad40 is 5 77398
+address 0x25cad40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x495fb40 is 5 150269
+address 0x495fb40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e57b00 is 4 193213
+address 0x5e57b00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e1c000 is 0 192736
+address 0x5e1c000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e8a840 is 1 193620
+address 0x5e8a840 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e11b40 is 5 192653
+address 0x5e11b40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e7bc00 is 0 193502
+address 0x5e7bc00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e11c80 is 2 192654
+address 0x5e11c80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2ad1840 is 1 87692
+address 0x2ad1840 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x43886c0 is 3 138307
+address 0x43886c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x4fe0000 is 0 163584
+address 0x4fe0000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x51d3240 is 1 167577
+address 0x51d3240 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x51d3200 is 0 167577
+address 0x51d3200 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x51d31c0 is 7 167576
+address 0x51d31c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x4388680 is 2 138307
+address 0x4388680 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36776c0 is 3 111547
+address 0x36776c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676b80 is 6 111541
+address 0x3676b80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676b40 is 5 111541
+address 0x3676b40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x4b9f400 is 0 154874
+address 0x4b9f400 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5b57940 is 5 187068
+address 0x5b57940 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754540 is 5 178850
+address 0x5754540 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x4b9f3c0 is 7 154873
+address 0x4b9f3c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754500 is 4 178850
+address 0x5754500 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676ac0 is 3 111541
+address 0x3676ac0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677640 is 1 111547
+address 0x3677640 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676b00 is 4 111541
+address 0x3676b00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676a00 is 0 111541
+address 0x3676a00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x36775c0 is 7 111546
+address 0x36775c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3673500 is 4 111514
+address 0x3673500 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676a80 is 2 111541
+address 0x3676a80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676a40 is 1 111541
+address 0x3676a40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x57545c0 is 7 178850
+address 0x57545c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676940 is 5 111540
+address 0x3676940 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754580 is 6 178850
+address 0x5754580 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36765c0 is 7 111538
+address 0x36765c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677540 is 5 111546
+address 0x3677540 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36769c0 is 7 111540
+address 0x36769c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676980 is 6 111540
+address 0x3676980 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5754600 is 0 178851
+address 0x5754600 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676900 is 4 111540
+address 0x3676900 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36774c0 is 3 111546
+address 0x36774c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5ab48c0 is 3 185764
+address 0x5ab48c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e7f380 is 6 193529
+address 0x5e7f380 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5eb51c0 is 7 193960
+address 0x5eb51c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5dd02c0 is 3 192129
+address 0x5dd02c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e4f880 is 2 193148
+address 0x5e4f880 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e13000 is 0 192664
+address 0x5e13000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e59540 is 5 193226
+address 0x5e59540 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e66b80 is 6 193333
+address 0x5e66b80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5eb5200 is 0 193961
+address 0x5eb5200 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e8aec0 is 3 193623
+address 0x5e8aec0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5b57900 is 4 187068
+address 0x5b57900 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e81500 is 4 193546
+address 0x5e81500 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e3fac0 is 3 193021
+address 0x5e3fac0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e6cdc0 is 7 193382
+address 0x5e6cdc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5eb5240 is 1 193961
+address 0x5eb5240 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e06840 is 1 192564
+address 0x5e06840 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676840 is 1 111540
+address 0x3676840 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677440 is 1 111546
+address 0x3677440 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754640 is 1 178851
+address 0x5754640 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676780 is 6 111539
+address 0x3676780 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36773c0 is 7 111545
+address 0x36773c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36734c0 is 3 111514
+address 0x36734c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676800 is 0 111540
+address 0x3676800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36767c0 is 7 111539
+address 0x36767c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754680 is 2 178851
+address 0x5754680 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676700 is 4 111539
+address 0x3676700 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677340 is 5 111545
+address 0x3677340 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3673480 is 2 111514
+address 0x3673480 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676740 is 5 111539
+address 0x3676740 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x57546c0 is 3 178851
+address 0x57546c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676640 is 1 111539
+address 0x3676640 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36772c0 is 3 111545
+address 0x36772c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36766c0 is 3 111539
+address 0x36766c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676680 is 2 111539
+address 0x3676680 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x3677240 is 1 111545
+address 0x3677240 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676600 is 0 111539
+address 0x3676600 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2ad1740 is 5 87691
+address 0x2ad1740 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x4388640 is 1 138307
+address 0x4388640 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x4fdffc0 is 7 163583
+address 0x4fdffc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x51d3400 is 0 167578
+address 0x51d3400 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x51d33c0 is 7 167577
+address 0x51d33c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x51d3380 is 6 167577
+address 0x51d3380 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x4388600 is 0 138307
+address 0x4388600 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3661d00 is 4 111374
+address 0x3661d00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676580 is 6 111538
+address 0x3676580 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36771c0 is 7 111544
+address 0x36771c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676540 is 5 111538
+address 0x3676540 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3673440 is 1 111514
+address 0x3673440 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676500 is 4 111538
+address 0x3676500 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754740 is 5 178851
+address 0x5754740 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754700 is 4 178851
+address 0x5754700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x3676480 is 2 111538
+address 0x3676480 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677140 is 5 111544
+address 0x3677140 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36764c0 is 3 111538
+address 0x36764c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36763c0 is 7 111537
+address 0x36763c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x36770c0 is 3 111544
+address 0x36770c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676440 is 1 111538
+address 0x3676440 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676400 is 0 111538
+address 0x3676400 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x57547c0 is 7 178851
+address 0x57547c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676300 is 4 111537
+address 0x3676300 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754780 is 6 178851
+address 0x5754780 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675f80 is 6 111535
+address 0x3675f80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3677040 is 1 111544
+address 0x3677040 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676380 is 6 111537
+address 0x3676380 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3673400 is 0 111514
+address 0x3673400 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676340 is 5 111537
+address 0x3676340 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754800 is 0 178852
+address 0x5754800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36762c0 is 3 111537
+address 0x36762c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674fc0 is 7 111527
+address 0x3674fc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5ab4800 is 0 185764
+address 0x5ab4800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e5d300 is 4 193257
+address 0x5e5d300 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5dd0280 is 2 192129
+address 0x5dd0280 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e4f840 is 1 193148
+address 0x5e4f840 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5eb5280 is 2 193961
+address 0x5eb5280 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e66b40 is 5 193333
+address 0x5e66b40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e8ae80 is 2 193623
+address 0x5e8ae80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5eb52c0 is 3 193961
+address 0x5eb52c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e81480 is 2 193546
+address 0x5e81480 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e3fb40 is 5 193021
+address 0x5e3fb40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e6cd00 is 4 193382
+address 0x5e6cd00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5ea4140 is 5 193824
+address 0x5ea4140 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e58580 is 6 193218
+address 0x5e58580 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e8f680 is 2 193659
+address 0x5e8f680 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e83d80 is 6 193566
+address 0x5e83d80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676200 is 0 111537
+address 0x3676200 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674f40 is 5 111527
+address 0x3674f40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5ab47c0 is 7 185763
+address 0x5ab47c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754840 is 1 178852
+address 0x5754840 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676140 is 5 111536
+address 0x3676140 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674ec0 is 3 111527
+address 0x3674ec0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36761c0 is 7 111536
+address 0x36761c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676180 is 6 111536
+address 0x3676180 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5754880 is 2 178852
+address 0x5754880 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36760c0 is 3 111536
+address 0x36760c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674e40 is 1 111527
+address 0x3674e40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36733c0 is 7 111513
+address 0x36733c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676100 is 4 111536
+address 0x3676100 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x57548c0 is 3 178852
+address 0x57548c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676000 is 0 111536
+address 0x3676000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674dc0 is 7 111526
+address 0x3674dc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676080 is 2 111536
+address 0x3676080 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3676040 is 1 111536
+address 0x3676040 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x3674d40 is 5 111526
+address 0x3674d40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675fc0 is 7 111535
+address 0x3675fc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x4fdff80 is 6 163583
+address 0x4fdff80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x51d35c0 is 7 167578
+address 0x51d35c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x51d3580 is 6 167578
+address 0x51d3580 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x51d3540 is 5 167578
+address 0x51d3540 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x43885c0 is 7 138306
+address 0x43885c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3661c80 is 2 111374
+address 0x3661c80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675f40 is 5 111535
+address 0x3675f40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754900 is 4 178852
+address 0x5754900 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674cc0 is 3 111526
+address 0x3674cc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675ec0 is 3 111535
+address 0x3675ec0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675dc0 is 7 111534
+address 0x3675dc0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x3674c80 is 2 111526
+address 0x3674c80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3673380 is 6 111513
+address 0x3673380 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675e40 is 1 111535
+address 0x3675e40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675e00 is 0 111535
+address 0x3675e00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5754980 is 6 178852
+address 0x5754980 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675d80 is 6 111534
+address 0x3675d80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754940 is 5 178852
+address 0x5754940 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675c80 is 2 111534
+address 0x3675c80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674c00 is 0 111526
+address 0x3674c00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675900 is 4 111532
+address 0x3675900 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674b80 is 6 111525
+address 0x3674b80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3673340 is 5 111513
+address 0x3673340 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675d40 is 5 111534
+address 0x3675d40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675d00 is 4 111534
+address 0x3675d00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5754a00 is 0 178853
+address 0x5754a00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675cc0 is 3 111534
+address 0x3675cc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x57549c0 is 7 178852
+address 0x57549c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675bc0 is 7 111533
+address 0x3675bc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674b00 is 4 111525
+address 0x3674b00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674a80 is 2 111525
+address 0x3674a80 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x3675c40 is 1 111534
+address 0x3675c40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675c00 is 0 111534
+address 0x3675c00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5754a40 is 1 178853
+address 0x5754a40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675b00 is 4 111533
+address 0x3675b00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674a00 is 0 111525
+address 0x3674a00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3673300 is 4 111513
+address 0x3673300 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675b80 is 6 111533
+address 0x3675b80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675b40 is 5 111533
+address 0x3675b40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5754a80 is 2 178853
+address 0x5754a80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675a80 is 2 111533
+address 0x3675a80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674980 is 6 111524
+address 0x3674980 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675ac0 is 3 111533
+address 0x3675ac0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754ac0 is 3 178853
+address 0x5754ac0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36759c0 is 7 111532
+address 0x36759c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674900 is 4 111524
+address 0x3674900 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36732c0 is 3 111513
+address 0x36732c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675a40 is 1 111533
+address 0x3675a40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675a00 is 0 111533
+address 0x3675a00 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x3674880 is 2 111524
+address 0x3674880 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675980 is 6 111532
+address 0x3675980 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675940 is 5 111532
+address 0x3675940 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5754b40 is 5 178853
+address 0x5754b40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675800 is 0 111532
+address 0x3675800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754b00 is 4 178853
+address 0x5754b00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36753c0 is 7 111529
+address 0x36753c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674800 is 0 111524
+address 0x3674800 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3673280 is 2 111513
+address 0x3673280 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675880 is 2 111532
+address 0x3675880 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675840 is 1 111532
+address 0x3675840 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5754b80 is 6 178853
+address 0x5754b80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36757c0 is 7 111531
+address 0x36757c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36758c0 is 3 111532
+address 0x36758c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674780 is 6 111523
+address 0x3674780 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5ab4640 is 1 185763
+address 0x5ab4640 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e4f100 is 4 193144
+address 0x5e4f100 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e0fa80 is 2 192637
+address 0x5e0fa80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e7eac0 is 3 193525
+address 0x5e7eac0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5ea7500 is 4 193850
+address 0x5ea7500 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e6e540 is 5 193394
+address 0x5e6e540 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5eb5300 is 4 193961
+address 0x5eb5300 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5dd0200 is 0 192129
+address 0x5dd0200 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e4f780 is 6 193147
+address 0x5e4f780 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e66ac0 is 3 193333
+address 0x5e66ac0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5eb5340 is 5 193961
+address 0x5eb5340 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e8ae00 is 0 193623
+address 0x5e8ae00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5eb3040 is 1 193944
+address 0x5eb3040 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e66ec0 is 3 193335
+address 0x5e66ec0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e81400 is 0 193546
+address 0x5e81400 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e3fc00 is 0 193022
+address 0x5e3fc00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e6cc00 is 0 193382
+address 0x5e6cc00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5eb5380 is 6 193961
+address 0x5eb5380 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675740 is 5 111531
+address 0x3675740 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674700 is 4 111523
+address 0x3674700 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754bc0 is 7 178853
+address 0x5754bc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675640 is 1 111531
+address 0x3675640 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674680 is 2 111523
+address 0x3674680 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36756c0 is 3 111531
+address 0x36756c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3673240 is 1 111513
+address 0x3673240 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675680 is 2 111531
+address 0x3675680 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754c00 is 0 178854
+address 0x5754c00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36755c0 is 7 111530
+address 0x36755c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675700 is 4 111531
+address 0x3675700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x3674600 is 0 111523
+address 0x3674600 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675600 is 0 111531
+address 0x3675600 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754c40 is 1 178854
+address 0x5754c40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675500 is 4 111530
+address 0x3675500 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674580 is 6 111522
+address 0x3674580 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675580 is 6 111530
+address 0x3675580 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3673200 is 0 111513
+address 0x3673200 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675540 is 5 111530
+address 0x3675540 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754c80 is 2 178854
+address 0x5754c80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675440 is 1 111530
+address 0x3675440 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674500 is 4 111522
+address 0x3674500 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36754c0 is 3 111530
+address 0x36754c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675480 is 2 111530
+address 0x3675480 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x3674480 is 2 111522
+address 0x3674480 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675400 is 0 111530
+address 0x3675400 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x25200c0 is 3 76032
+address 0x25200c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x4978e40 is 1 150471
+address 0x4978e40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e8be40 is 1 193631
+address 0x5e8be40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5eb22c0 is 3 193937
+address 0x5eb22c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e82040 is 1 193552
+address 0x5e82040 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e3e3c0 is 7 193009
+address 0x5e3e3c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e78240 is 1 193473
+address 0x5e78240 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e33b80 is 6 192925
+address 0x5e33b80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e6e440 is 1 193394
+address 0x5e6e440 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e85e00 is 0 193583
+address 0x5e85e00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5eb53c0 is 7 193961
+address 0x5eb53c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e6ff80 is 6 193407
+address 0x5e6ff80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e2b500 is 4 192858
+address 0x5e2b500 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e8a280 is 2 193617
+address 0x5e8a280 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e22cc0 is 3 192790
+address 0x5e22cc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e64600 is 0 193315
+address 0x5e64600 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e4bf40 is 5 193119
+address 0x5e4bf40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e7e900 is 4 193524
+address 0x5e7e900 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5eb5400 is 0 193962
+address 0x5eb5400 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2ad1540 is 5 87690
+address 0x2ad1540 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x42c6980 is 6 136756
+address 0x42c6980 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x4388580 is 6 138306
+address 0x4388580 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x4fdff40 is 5 163583
+address 0x4fdff40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x51d3780 is 6 167579
+address 0x51d3780 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x51d3740 is 5 167579
+address 0x51d3740 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x51d3700 is 4 167579
+address 0x51d3700 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x51d36c0 is 3 167579
+address 0x51d36c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x4388540 is 5 138306
+address 0x4388540 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674400 is 0 111522
+address 0x3674400 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x4b9f380 is 6 154873
+address 0x4b9f380 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754cc0 is 3 178854
+address 0x5754cc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675300 is 4 111529
+address 0x3675300 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674380 is 6 111521
+address 0x3674380 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675380 is 6 111529
+address 0x3675380 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36731c0 is 7 111512
+address 0x36731c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675340 is 5 111529
+address 0x3675340 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754d00 is 4 178854
+address 0x5754d00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675200 is 0 111529
+address 0x3675200 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3672f40 is 5 111511
+address 0x3672f40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674300 is 4 111521
+address 0x3674300 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675280 is 2 111529
+address 0x3675280 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675240 is 1 111529
+address 0x3675240 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5754d40 is 5 178854
+address 0x5754d40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36751c0 is 7 111528
+address 0x36751c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36752c0 is 3 111529
+address 0x36752c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x3674280 is 2 111521
+address 0x3674280 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5ab4580 is 6 185762
+address 0x5ab4580 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e6d700 is 4 193387
+address 0x5e6d700 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5dd01c0 is 7 192128
+address 0x5dd01c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e4f740 is 5 193147
+address 0x5e4f740 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5eb5440 is 1 193962
+address 0x5eb5440 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e66a80 is 2 193333
+address 0x5e66a80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e3d600 is 0 193003
+address 0x5e3d600 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e5e6c0 is 3 193267
+address 0x5e5e6c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e14d40 is 5 192678
+address 0x5e14d40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e56300 is 4 193201
+address 0x5e56300 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5e8adc0 is 7 193622
+address 0x5e8adc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5eb5480 is 2 193962
+address 0x5eb5480 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754d80 is 6 178854
+address 0x5754d80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675100 is 4 111528
+address 0x3675100 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674200 is 0 111521
+address 0x3674200 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675140 is 5 111528
+address 0x3675140 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5ab4540 is 5 185762
+address 0x5ab4540 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675080 is 2 111528
+address 0x3675080 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674180 is 6 111520
+address 0x3674180 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3673180 is 6 111512
+address 0x3673180 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x36750c0 is 3 111528
+address 0x36750c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754dc0 is 7 178854
+address 0x5754dc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3672fc0 is 7 111511
+address 0x3672fc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674100 is 4 111520
+address 0x3674100 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675040 is 1 111528
+address 0x3675040 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3675000 is 0 111528
+address 0x3675000 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5754e00 is 0 178855
+address 0x5754e00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674080 is 2 111520
+address 0x3674080 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3672f80 is 6 111511
+address 0x3672f80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x2ad1400 is 0 87690
+address 0x2ad1400 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x4388500 is 4 138306
+address 0x4388500 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x4fdff00 is 4 163583
+address 0x4fdff00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x51d3900 is 4 167580
+address 0x51d3900 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x51d38c0 is 3 167580
+address 0x51d38c0 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x51d3880 is 2 167580
+address 0x51d3880 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x43884c0 is 3 138306
+address 0x43884c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3661b00 is 4 111373
+address 0x3661b00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3672f00 is 4 111511
+address 0x3672f00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3674000 is 0 111520
+address 0x3674000 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3672ec0 is 3 111511
+address 0x3672ec0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x366ffc0 is 7 111487
+address 0x366ffc0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5ab42c0 is 3 185761
+address 0x5ab42c0 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3672e00 is 0 111511
+address 0x3672e00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3671f80 is 6 111503
+address 0x3671f80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3673140 is 5 111512
+address 0x3673140 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3672e80 is 2 111511
+address 0x3672e80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3672e40 is 1 111511
+address 0x3672e40 CACHE MISS. Loading from memory... it is a ROW BUFFER HIT
+set and tag of 0x5754e80 is 2 178855
+address 0x5754e80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3672d00 is 4 111510
+address 0x3672d00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x5754e40 is 1 178855
+address 0x5754e40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3672a40 is 1 111509
+address 0x3672a40 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3671f00 is 4 111503
+address 0x3671f00 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+set and tag of 0x3672d80 is 6 111510
+address 0x3672d80 CACHE MISS. Loading from memory... it is a ROW BUFFER MISS (will take more time to load from memory)
+total cache accesses 1000
+total cache misses 1000
+total cache hits 0
+miss_rate 1.0
+hit_rate 0.0
+Row Buffer Hit Rate 0.377
+Average Miss Penalty 162.3
+AMAT 167.3
+CPI_stall 163
+Finished processing the specified part of the program trace, progress = 100.0 %
+Percentage of the entire program trace executed = 2.1893814997263275 % 
+
+=====================================
