@@ -1,0 +1,258 @@
+(base) MacBook-Pro:hw5 adwait$ python sim_424.py first.trace 16 1 4
+first.trace
+Processing your program trace, progress so far = 0 %
+set and tag of 0x0 is 0 0
+address 0x0 CACHE MISS. Loading from memory.
+set and tag of 0x4 is 1 0
+address 0x4 CACHE MISS. Loading from memory.
+set and tag of 0x8 is 2 0
+address 0x8 CACHE MISS. Loading from memory.
+set and tag of 0xc is 3 0
+address 0xc CACHE MISS. Loading from memory.
+set and tag of 0x10 is 0 1
+address 0x10 CACHE MISS. Loading from memory.
+set and tag of 0xc is 3 0
+address 0xc CACHE HIT. Good Job.
+set and tag of 0x10 is 0 1
+address 0x10 CACHE HIT. Good Job.
+set and tag of 0x3c is 3 3
+address 0x3c CACHE MISS. Loading from memory.
+total cache misses 6
+miss_rate 0.75
+hit_rate 0.25
+Finished processing your program trace, progress = 100.0 %
+
+(base) MacBook-Pro:hw5 adwait$ python sim_424.py first.trace 16 1 8
+first.trace
+Processing your program trace, progress so far = 0 %
+set and tag of 0x0 is 0 0
+address 0x0 CACHE MISS. Loading from memory.
+set and tag of 0x4 is 0 0
+address 0x4 CACHE HIT. Good Job.
+set and tag of 0x8 is 1 0
+address 0x8 CACHE MISS. Loading from memory.
+set and tag of 0xc is 1 0
+address 0xc CACHE HIT. Good Job.
+set and tag of 0x10 is 0 1
+address 0x10 CACHE MISS. Loading from memory.
+set and tag of 0xc is 1 0
+address 0xc CACHE HIT. Good Job.
+set and tag of 0x10 is 0 1
+address 0x10 CACHE HIT. Good Job.
+set and tag of 0x3c is 1 3
+address 0x3c CACHE MISS. Loading from memory.
+total cache misses 4
+miss_rate 0.5
+hit_rate 0.5
+Finished processing your program trace, progress = 100.0 %
+
+(base) MacBook-Pro:hw5 adwait$ python sim_424.py pingpong.trace 16 1 4
+pingpong.trace
+Processing your program trace, progress so far = 0 %
+set and tag of 0x0 is 0 0
+address 0x0 CACHE MISS. Loading from memory.
+set and tag of 0x10 is 0 1
+address 0x10 CACHE MISS. Loading from memory.
+set and tag of 0x0 is 0 0
+address 0x0 CACHE MISS. Loading from memory.
+set and tag of 0x10 is 0 1
+address 0x10 CACHE MISS. Loading from memory.
+set and tag of 0x0 is 0 0
+address 0x0 CACHE MISS. Loading from memory.
+set and tag of 0x10 is 0 1
+address 0x10 CACHE MISS. Loading from memory.
+set and tag of 0x0 is 0 0
+address 0x0 CACHE MISS. Loading from memory.
+set and tag of 0x10 is 0 1
+address 0x10 CACHE MISS. Loading from memory.
+total cache misses 8
+miss_rate 1.0
+hit_rate 0.0
+Finished processing your program trace, progress = 100.0 %
+
+(base) MacBook-Pro:hw5 adwait$ python sim_424.py pingpong.trace 16 2 4
+pingpong.trace
+Processing your program trace, progress so far = 0 %
+set and tag of 0x0 is 0 0
+address 0x0 CACHE MISS. Loading from memory.
+set and tag of 0x10 is 0 2
+address 0x10 CACHE MISS. Loading from memory.
+set and tag of 0x0 is 0 0
+address 0x0 CACHE HIT. Good Job.
+set and tag of 0x10 is 0 2
+address 0x10 CACHE HIT. Good Job.
+set and tag of 0x0 is 0 0
+address 0x0 CACHE HIT. Good Job.
+set and tag of 0x10 is 0 2
+address 0x10 CACHE HIT. Good Job.
+set and tag of 0x0 is 0 0
+address 0x0 CACHE HIT. Good Job.
+set and tag of 0x10 is 0 2
+address 0x10 CACHE HIT. Good Job.
+total cache misses 2
+miss_rate 0.25
+hit_rate 0.75
+Finished processing your program trace, progress = 100.0 %
+
+(base) MacBook-Pro:hw5 adwait$ python sim_424.py test_q.trace 64 2 4
+test_q.trace
+Processing your program trace, progress so far = 0 %
+set and tag of 0x0 is 0 0
+address 0x0 CACHE MISS. Loading from memory.
+set and tag of 0x4 is 1 0
+address 0x4 CACHE MISS. Loading from memory.
+set and tag of 0x24 is 1 1
+address 0x24 CACHE MISS. Loading from memory.
+set and tag of 0x10 is 4 0
+address 0x10 CACHE MISS. Loading from memory.
+set and tag of 0x4 is 1 0
+address 0x4 CACHE HIT. Good Job.
+set and tag of 0x44 is 1 2
+address 0x44 CACHE MISS. Loading from memory.
+set and tag of 0x24 is 1 1
+address 0x24 CACHE MISS. Loading from memory.
+set and tag of 0x1c is 7 0
+address 0x1c CACHE MISS. Loading from memory.
+set and tag of 0x0 is 0 0
+address 0x0 CACHE HIT. Good Job.
+set and tag of 0x24 is 1 1
+address 0x24 CACHE HIT. Good Job.
+set and tag of 0x30 is 4 1
+address 0x30 CACHE MISS. Loading from memory.
+set and tag of 0x10 is 4 0
+address 0x10 CACHE HIT. Good Job.
+total cache misses 8
+miss_rate 0.6666666666666666
+hit_rate 0.33333333333333337
+Finished processing your program trace, progress = 100.0 %
+
+
+(base) MacBook-Pro:hw5 adwait$ python sim_424.py hw5.trace 64 2 8
+hw5.trace
+Processing your program trace, progress so far = 0 %
+set and tag of 0x4 is 0 0
+address 0x4 CACHE MISS. Loading from memory.
+set and tag of 0x48 is 1 2
+address 0x48 CACHE MISS. Loading from memory.
+set and tag of 0x8 is 1 0
+address 0x8 CACHE MISS. Loading from memory.
+set and tag of 0xc is 1 0
+address 0xc CACHE HIT. Good Job.
+set and tag of 0x10 is 2 0
+address 0x10 CACHE MISS. Loading from memory.
+set and tag of 0x50 is 2 2
+address 0x50 CACHE MISS. Loading from memory.
+set and tag of 0x14 is 2 0
+address 0x14 CACHE HIT. Good Job.
+set and tag of 0x54 is 2 2
+address 0x54 CACHE HIT. Good Job.
+set and tag of 0x84 is 0 4
+address 0x84 CACHE MISS. Loading from memory.
+set and tag of 0x88 is 1 4
+address 0x88 CACHE MISS. Loading from memory.
+set and tag of 0x4 is 0 0
+address 0x4 CACHE HIT. Good Job.
+set and tag of 0x10 is 2 0
+address 0x10 CACHE HIT. Good Job.
+total cache misses 7
+miss_rate 0.5833333333333334
+hit_rate 0.41666666666666663
+Finished processing your program trace, progress = 100.0 %
+
+
+(base) MacBook-Pro:hw5 adwait$ python sim_424.py hw4_a.trace 64 1 4
+hw4_a.trace
+Processing your program trace, progress so far = 0 %
+set and tag of 0x0 is 0 0
+address 0x0 CACHE MISS. Loading from memory.
+set and tag of 0x4 is 1 0
+address 0x4 CACHE MISS. Loading from memory.
+set and tag of 0x8 is 2 0
+address 0x8 CACHE MISS. Loading from memory.
+set and tag of 0xc is 3 0
+address 0xc CACHE MISS. Loading from memory.
+set and tag of 0x10 is 4 0
+address 0x10 CACHE MISS. Loading from memory.
+set and tag of 0x14 is 5 0
+address 0x14 CACHE MISS. Loading from memory.
+set and tag of 0x18 is 6 0
+address 0x18 CACHE MISS. Loading from memory.
+set and tag of 0x1c is 7 0
+address 0x1c CACHE MISS. Loading from memory.
+set and tag of 0x20 is 8 0
+address 0x20 CACHE MISS. Loading from memory.
+set and tag of 0x24 is 9 0
+address 0x24 CACHE MISS. Loading from memory.
+set and tag of 0x28 is 10 0
+address 0x28 CACHE MISS. Loading from memory.
+set and tag of 0x2c is 11 0
+address 0x2c CACHE MISS. Loading from memory.
+set and tag of 0x30 is 12 0
+address 0x30 CACHE MISS. Loading from memory.
+set and tag of 0x34 is 13 0
+address 0x34 CACHE MISS. Loading from memory.
+set and tag of 0x38 is 14 0
+address 0x38 CACHE MISS. Loading from memory.
+set and tag of 0x3c is 15 0
+address 0x3c CACHE MISS. Loading from memory.
+set and tag of 0x4 is 1 0
+address 0x4 CACHE HIT. Good Job.
+set and tag of 0x48 is 2 1
+address 0x48 CACHE MISS. Loading from memory.
+set and tag of 0x8 is 2 0
+address 0x8 CACHE MISS. Loading from memory.
+set and tag of 0xc is 3 0
+address 0xc CACHE HIT. Good Job.
+set and tag of 0x10 is 4 0
+address 0x10 CACHE HIT. Good Job.
+set and tag of 0x50 is 4 1
+address 0x50 CACHE MISS. Loading from memory.
+set and tag of 0x14 is 5 0
+address 0x14 CACHE HIT. Good Job.
+set and tag of 0x54 is 5 1
+address 0x54 CACHE MISS. Loading from memory.
+set and tag of 0x84 is 1 2
+address 0x84 CACHE MISS. Loading from memory.
+set and tag of 0x88 is 2 2
+address 0x88 CACHE MISS. Loading from memory.
+set and tag of 0x4 is 1 0
+address 0x4 CACHE MISS. Loading from memory.
+set and tag of 0x10 is 4 0
+address 0x10 CACHE MISS. Loading from memory.
+total cache misses 24
+miss_rate 0.8571428571428571
+hit_rate 0.1428571428571429
+Finished processing your program trace, progress = 100.0 %
+
+
+(base) MacBook-Pro:hw5 adwait$ python sim_424.py hw4_b.trace 64 1 8
+hw4_b.trace
+Processing your program trace, progress so far = 0 %
+set and tag of 0x4 is 0 0
+address 0x4 CACHE MISS. Loading from memory.
+set and tag of 0x48 is 1 1
+address 0x48 CACHE MISS. Loading from memory.
+set and tag of 0x8 is 1 0
+address 0x8 CACHE MISS. Loading from memory.
+set and tag of 0xc is 1 0
+address 0xc CACHE HIT. Good Job.
+set and tag of 0x10 is 2 0
+address 0x10 CACHE MISS. Loading from memory.
+set and tag of 0x50 is 2 1
+address 0x50 CACHE MISS. Loading from memory.
+set and tag of 0x14 is 2 0
+address 0x14 CACHE MISS. Loading from memory.
+set and tag of 0x54 is 2 1
+address 0x54 CACHE MISS. Loading from memory.
+set and tag of 0x84 is 0 2
+address 0x84 CACHE MISS. Loading from memory.
+set and tag of 0x88 is 1 2
+address 0x88 CACHE MISS. Loading from memory.
+set and tag of 0x4 is 0 0
+address 0x4 CACHE MISS. Loading from memory.
+set and tag of 0x10 is 2 0
+address 0x10 CACHE MISS. Loading from memory.
+total cache misses 11
+miss_rate 0.9166666666666666
+hit_rate 0.08333333333333337
+Finished processing your program trace, progress = 100.0 %
